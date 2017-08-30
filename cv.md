@@ -6,7 +6,7 @@ Github: https://github.com/YoungjunNa
 
 ## EDUCATION
 **Konkuk University**, Seoul, Republic of Korea  
-- Ph.D., Animal Science	Mar. 2014 – Feb. 2017  
+- **Ph.D.**, Animal Science	Mar. 2014 – Feb. 2017  
 - M.Sc., Animal Science	Sept. 2011 – Feb. 2014  
 - B.Sc., Animal Science	Mar. 2006 – Aug. 2011  
   
