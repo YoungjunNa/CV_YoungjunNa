@@ -31,9 +31,9 @@ Github: https://github.com/YoungjunNa
 - Nutritional aspect of agro by-product, Konkuk University, Oct. 2016  
 
 ## SKILLS AND INTERESTS
-- Software: R, SAS, and Python  
-- Skills: Data analysis using SAS (designed experiment, mixed model regression, repeated measurement, and etc.) and R [data handling (dplyr), meta-analysis (meta), and data visualization (ggplot2)]; feed formulation; animal handling; GC/chemical analysis.  
-- Interests: Rural development  
+- **Software**: R, SAS, and Python  
+- **Skills**: Data analysis using SAS (designed experiment, mixed model regression, repeated measurement, and etc.) and R [data handling (dplyr), meta-analysis (meta), and data visualization (ggplot2)]; feed formulation; animal handling; GC/chemical analysis.  
+- **Interests**: Rural development  
 
 ## PUBLICATION  
 - **Na, Y.**, D. H. Li, and S. R. Lee. “Effects of dietary forage-to-concentrate ratio on nutrient digestibility and enteric methane production in growing goats (Capra hircus hircus) and Sika deer (Cervus nippon hortulorum).” Asian-Australasian Journal of Animal Sciences 30(7): 967–72.  
