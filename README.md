@@ -31,7 +31,7 @@ Github: https://github.com/YoungjunNa
 - Nutritional aspect of agro by-product, Konkuk University, Oct. 2016  
 
 ## SKILLS AND INTERESTS
-- **Software**: R, SAS, and Python  
+- **Software**: R and SAS  
 - **Skills**: Data analysis using SAS (designed experiment, mixed model regression, repeated measurement, and etc.) and R [data handling (dplyr), meta-analysis (meta), and data visualization (ggplot2)]; feed formulation; animal handling; GC/chemical analysis.  
 - **Interests**: Rural development  
 
