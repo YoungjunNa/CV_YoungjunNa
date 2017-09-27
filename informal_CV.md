@@ -54,7 +54,7 @@ Github: https://github.com/YoungjunNa
 
 ## ABSTRACT AND PROCEEDING
 - **Na, Y.** and S. R. Lee. 2017. Effects of increasing pineapple (Ananas comosus L.) cannery by-product inclusion level on growth performance, blood parameters, carcass characteristics, and longissimus muscle fatty acid and free amino acid composition of growing-finishing Hanwoo (Bos Taurus coreanae) steers. ASAS-CSAS Annual meeting.   
-- **Na, Y.**, W. W. Jeong, O. H. Yi, S. J. Hwang and S. R. Lee. 2013. Model for estimating enteric methane emissions from black goat. ADSA-ASAS Joint Annual Meeting.  
+- **Na, Y.**, W. Y. Jeong, O. H. Yi, S. J. Hwang and S. R. Lee. 2013. Model for estimating enteric methane emissions from black goat. ADSA-ASAS Joint Annual Meeting.  
 - **Na, Y.**, S. J. Hwang, S. S. Park, I. H. Lee, K. T. Nam and S. R. Lee. 2012. Effects of Feeding Rice Straw and Alfalfa Pellet as Roughage Sources on Milk Productivity and Chewing Behavior in Mid-Lactating Dairy Cows. Asian-Australasian Association of Animal Production Societies.  
 
 ## MARITAL STATUS
