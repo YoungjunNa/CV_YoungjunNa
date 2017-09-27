@@ -23,11 +23,11 @@ Github: https://github.com/YoungjunNa
 **Research assistant**, Konkuk University, 2011 - 2016  
 
 ## NON-PROFIT EXPERIENCE
-Sunday school teacher, Onnuri community church, 2010 – present  
-Member, Good Farmers (NGO for international relief and rural development), 2013 – present  
-Keyboardist & Second guitarist, Booze-up (Rock band), 2011 – 2012  
-Student president, Student council of Sungkwan Dormitory, Konkuk Univ. 2010 – 2011  
-Captain of cheerleading squad, Cheerleading squad of ANIS, 2007  
+- Sunday school teacher, Onnuri community church, 2010 – present  
+- Member, Good Farmers (NGO for international relief and rural development), 2013 – present  
+- Keyboardist & Second guitarist, Booze-up (Rock band), 2011 – 2012  
+- Student president, Student council of Sungkwan Dormitory, Konkuk Univ. 2010 – 2011  
+- Captain of cheerleading squad, Cheerleading squad of ANIS, 2007  
 
 ## TEACHING EXPERIENCE  
 - Advanced biological statics (Grad school), Konkuk University, Fall 2017  
