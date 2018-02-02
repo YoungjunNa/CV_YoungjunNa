@@ -12,6 +12,7 @@ Github: https://github.com/YoungjunNa
   
 ## RESEARCH EXPERIENCE  
 **PhD researcher**, Konkuk University, 2017 – present  
+- Machine learing anlaysis for animal nutrition
 - Utilization of agro by-products in ruminant
 - Animal behavior/physiology study which collaborated with ICT technology  
 - Improvement of forage utilization  
@@ -19,8 +20,9 @@ Github: https://github.com/YoungjunNa
   
 **Research assistant**, Konkuk University, 2011 - 2016  
 
-
 ## TEACHING EXPERIENCE  
+- Animal Breeding, Seojeong University, Spring 2018
+- Animal nutrition and feeding, Seojeong University, Spring 2018
 - Advanced biological statics (Grad school), Konkuk University, Fall 2017  
 - Animal nutrition, Korea Open University, Fall 2017
 - Animal nutrition and feeding, Seojeong University, Spring 2017  
@@ -32,7 +34,7 @@ Github: https://github.com/YoungjunNa
 
 ## SKILLS AND INTERESTS
 - **Software**: R and SAS  
-- **Skills**: Data analysis using SAS (designed experiment, mixed model regression, repeated measurement, and etc.) and R [data handling (dplyr), meta-analysis (meta), and data visualization (ggplot2)]; feed formulation; animal handling; GC/chemical analysis.  
+- **Skills**: Data analysis using SAS and R; machine learing; feed formulation; animal handling; GC/chemical analysis.  
 - **Interests**: Rural development  
 
 ## PUBLICATION  
