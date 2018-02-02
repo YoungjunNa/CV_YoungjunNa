@@ -23,11 +23,13 @@ Email: ruminoreticulum@gmail.com; Github: https://github.com/YoungjunNa; Homepag
 ### **Adjunct Professor**, Seojung University, 2018 - present    
 - [Animal Breeding](https://github.com/YoungjunNa/2018_breeding_science), Seojung University, Spring 2018
 - [Animal nutrition and feeding](https://github.com/YoungjunNa/2018_animal_nutrition_and_feeding), Seojung University, Spring 2018
-- [Advanced biological statics (Grad school)](https://github.com/YoungjunNa/2017_advanced_biological_statics), Konkuk University, Fall 2017  
-- Animal nutrition, Korea Open University, Fall 2017
 - Animal nutrition and feeding, Seojung University, Spring 2017  
 
-### SPECIAL LECTURE
+### Lecturer
+- [Advanced biological statics (Grad school)](https://github.com/YoungjunNa/2017_advanced_biological_statics), Konkuk University, Fall 2017  
+- Animal nutrition, Korea Open University, Fall 2017
+
+### Special Lecture
 - Experimental design and statistics, Seoul National University, Jan 2017  
 - Feed formulation, Konkuk University, Dec 2016  
 - Nutritional aspect of agro by-product, Konkuk University, Oct 2016  
@@ -45,7 +47,7 @@ Email: ruminoreticulum@gmail.com; Github: https://github.com/YoungjunNa; Homepag
 ### 1st author
 - **Na, Y.**, D. H. Li, and S. R. Lee. 2017. Effects of dietary forage-to-concentrate ratio on nutrient digestibility and enteric methane production in growing goats (Capra hircus hircus) and Sika deer (Cervus nippon hortulorum). Asian-Australasian Journal of Animal Sciences 30(7): 967–72.  
 - **Na, Y.** 2017. Feeding value of pineapple (Ananas comosus L.) cannery by-product and its effect on the productivity and carcass characteristics of Hanwoo steers.” Dissertation. Konkuk University. 2017.  
-- **Na, Y.**, J. S. Rim, J. W. Bang, and S. R. Lee. 2016. Evaluation of the Milk Productivity and Nutrient Balance of Forage Sources for Organic Dairy Farms in Korea. Journal of The Korean Society of Grassland and Forage Science 36(2): 98–103.   
+- **Na, Y.**, J. S. Rim, J. Y. Bang, and S. R. Lee. 2016. Evaluation of the Milk Productivity and Nutrient Balance of Forage Sources for Organic Dairy Farms in Korea. Journal of The Korean Society of Grassland and Forage Science 36(2): 98–103.   
 - **Na, Y.** 2014. A study on the model estimating of enteric methane emission in black goats. Thesis. Konkuk University. 2014.  
 - **Na, Y.**, I. H. Lee, S. S. Park, and S. R. Lee. Effects of Combination of Rice Straw with Alfalfa Pellet on Milk Productivity and Chewing Activity in Lactating Dairy Cows. Asian-Australasian Journal of Animal Sciences 27(7): 960–64.  
 - **Na, Y.**, K. W. Lee, K. H. Hong, J. S. Rim, M. H. Kim, K. H. Kim, and S. R. Lee. 2013. Evaluations of Nutrient Compositions and In Situ Ruminal Disappearance Rates of Roughage Sources Commonly Used in Korea. Journal of The Korean Society of Grassland and Forage Science 33(4): 269–74.  
