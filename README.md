@@ -21,8 +21,8 @@ Email: ruminoreticulum@gmail.com; Github: https://github.com/YoungjunNa; Homepag
 
 ## TEACHING EXPERIENCE  
 ### **Adjunct professor**, Seojung University, 2018 - present    
-- Animal Breeding, Seojung University, Spring 2018
-- Animal nutrition and feeding, Seojung University, Spring 2018
+- [Animal Breeding](https://github.com/YoungjunNa/2018_breeding_science), Seojung University, Spring 2018
+- [Animal nutrition and feeding](https://github.com/YoungjunNa/2018_animal_nutrition_and_feeding), Seojung University, Spring 2018
 - [Advanced biological statics (Grad school)](https://github.com/YoungjunNa/2017_advanced_biological_statics), Konkuk University, Fall 2017  
 - Animal nutrition, Korea Open University, Fall 2017
 - Animal nutrition and feeding, Seojung University, Spring 2017  
