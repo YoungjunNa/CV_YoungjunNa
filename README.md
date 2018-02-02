@@ -25,11 +25,9 @@ Email: ruminoreticulum@gmail.com; Github: https://github.com/YoungjunNa; Homepag
 - [Animal nutrition and feeding](https://github.com/YoungjunNa/2018_animal_nutrition_and_feeding), Seojung University, Spring 2018
 - Animal nutrition and feeding, Seojung University, Spring 2017  
 
-### Lecturer
+### Lecturer, 2016 - 2017
 - [Advanced biological statics (Grad school)](https://github.com/YoungjunNa/2017_advanced_biological_statics), Konkuk University, Fall 2017  
 - Animal nutrition, Korea Open University, Fall 2017
-
-### Special Lecture
 - Experimental design and statistics, Seoul National University, Jan 2017  
 - Feed formulation, Konkuk University, Dec 2016  
 - Nutritional aspect of agro by-product, Konkuk University, Oct 2016  
