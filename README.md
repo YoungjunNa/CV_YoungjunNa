@@ -27,14 +27,14 @@ Email: ruminoreticulum@gmail.com; Github: https://github.com/YoungjunNa; Homepag
 - Animal nutrition, Korea Open University, Fall 2017
 - Animal nutrition and feeding, Seojung University, Spring 2017  
 
-## PROGRAMMING EXPERIENCE  
-### Member, Kor R Dev team, 2017 - present
-- [Related search word analysis project](https://github.com/lovetoken/rdevteam), 2017 - present
-
 ## SPECIAL LECTURE
 - Experimental design and statistics, Seoul National University, Jan. 2017  
 - Feed formulation, Konkuk University, Dec. 2016  
 - Nutritional aspect of agro by-product, Konkuk University, Oct. 2016  
+
+## PROGRAMMING EXPERIENCE  
+### Member, Kor R Dev team, 2017 - present
+- [Related search word analysis project](https://github.com/lovetoken/rdevteam), 2017 - present
 
 ## SKILLS AND INTERESTS
 - **Software**: R and SAS  
