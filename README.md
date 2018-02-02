@@ -4,13 +4,13 @@ Department of Animal Science and Technology, Konkuk University
 Email: ruminoreticulum@gmail.com; Github: https://github.com/YoungjunNa; Homepage: https://youngjunna.github.io  
 
 ## EDUCATION
-**Konkuk University**, Seoul, Republic of Korea  
+### **Konkuk University**, Seoul, Republic of Korea  
 - **Ph.D.**, Animal Science	Mar. 2014 – Feb. 2017  
 - M.Sc., Animal Science	Sept. 2011 – Feb. 2014  
 - B.Sc., Animal Science	Mar. 2006 – Aug. 2011  
   
 ## RESEARCH EXPERIENCE  
-**PhD researcher**, Konkuk University, 2017 – present  
+### **PhD researcher**, Konkuk University, 2017 – present  
 - Machine learing anlaysis for animal nutrition
 - Utilization of agro by-products in ruminant
 - Animal behavior/physiology study which collaborated with ICT technology  
@@ -20,7 +20,7 @@ Email: ruminoreticulum@gmail.com; Github: https://github.com/YoungjunNa; Homepag
 **Research assistant**, Konkuk University, 2011 - 2016  
 
 ## TEACHING EXPERIENCE  
-**Adjunct professor**, Seojung University, 2018 - present    
+### **Adjunct professor**, Seojung University, 2018 - present    
 - Animal Breeding, Seojung University, Spring 2018
 - Animal nutrition and feeding, Seojung University, Spring 2018
 - Advanced biological statics (Grad school), Konkuk University, Fall 2017  
