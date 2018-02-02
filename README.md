@@ -5,19 +5,19 @@ Email: ruminoreticulum@gmail.com; Github: https://github.com/YoungjunNa; Homepag
 
 ## EDUCATION
 ### **Konkuk University**, Seoul, Republic of Korea  
-- **Ph.D.**, Animal Science	Mar. 2014 – Feb. 2017  
-- M.Sc., Animal Science	Sept. 2011 – Feb. 2014  
-- B.Sc., Animal Science	Mar. 2006 – Aug. 2011  
+- **Ph.D.**, Animal Science	Mar 2014 – Feb 2017  
+- M.Sc., Animal Science	Sep 2011 – Feb 2014  
+- B.Sc., Animal Science	Mar 2006 – Aug 2011  
   
 ## RESEARCH EXPERIENCE  
-### **PhD researcher**, Konkuk University, 2017 – present  
+### **PhD Researcher**, Konkuk University, 2017 – present  
 - [Machine learing anlaysis for animal nutrition](https://github.com/YoungjunNa/machine_learning_animal_sci)
 - Utilization of agro by-products in ruminant
 - Animal behavior/physiology study which collaborated with ICT technology  
 - Improvement of forage utilization  
 - Modeling study for greenhouse gas emission from ruminants  
   
-**Research assistant**, Konkuk University, 2011 - 2016  
+**Research Assistant**, Konkuk University, 2011 - 2016  
 
 ## TEACHING EXPERIENCE  
 ### **Adjunct Professor**, Seojung University, 2018 - present    
@@ -28,9 +28,9 @@ Email: ruminoreticulum@gmail.com; Github: https://github.com/YoungjunNa; Homepag
 - Animal nutrition and feeding, Seojung University, Spring 2017  
 
 ### SPECIAL LECTURE
-- Experimental design and statistics, Seoul National University, Jan. 2017  
-- Feed formulation, Konkuk University, Dec. 2016  
-- Nutritional aspect of agro by-product, Konkuk University, Oct. 2016  
+- Experimental design and statistics, Seoul National University, Jan 2017  
+- Feed formulation, Konkuk University, Dec 2016  
+- Nutritional aspect of agro by-product, Konkuk University, Oct 2016  
 
 ## PROGRAMMING EXPERIENCE  
 ### Member, Kor R Dev team, 2017 - present
@@ -38,7 +38,7 @@ Email: ruminoreticulum@gmail.com; Github: https://github.com/YoungjunNa; Homepag
 
 ## SKILLS AND INTERESTS
 - **Software**: R and SAS  
-- **Skills**: Data analysis using SAS and R; machine learing; feed formulation; animal handling; GC/chemical analysis.  
+- **Skills**: Data analysis using SAS and R; machine learing; feed formulation; animal handling; GC/chemical analysis  
 - **Interests**: Rural development  
 
 ## PUBLICATION  
