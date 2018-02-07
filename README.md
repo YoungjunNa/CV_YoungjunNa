@@ -1,4 +1,4 @@
-# Youngjun Na, PhD.   
+# Youngjun Na, PhD   
 Department of Animal Science and Technology, Konkuk University  
 120 Neungdong-ro, Gwangjin-gu, Seoul 05029. Republic of Korea  
 Email: ruminoreticulum@gmail.com; Github: https://github.com/YoungjunNa; Homepage: https://youngjunna.github.io  
