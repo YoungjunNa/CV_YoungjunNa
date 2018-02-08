@@ -37,7 +37,7 @@ Email: ruminoreticulum@gmail.com; Github: https://github.com/YoungjunNa; Homepag
 - [Related search word analysis project](https://github.com/lovetoken/rdevteam), 2017 - present
 
 ## SKILLS AND INTERESTS
-- **Software**: R and SAS  
+- **Languages**: R  
 - **Skills**: Data analysis using SAS and R; machine learing; feed formulation; animal handling; GC/chemical analysis  
 - **Interests**: Rural development  
 
