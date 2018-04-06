@@ -9,7 +9,7 @@ Email: ruminoreticulum@gmail.com; Github: https://github.com/YoungjunNa; Technic
 - M.Sc., Animal Science	Sep 2011 – Feb 2014  
 - B.Sc., Animal Science	Mar 2006 – Aug 2011  
   
-## RESEARCH EXPERIENCE  
+## RESEARCH   
 ### **PhD Researcher**, Konkuk University, 2017 – present  
 - [Machine learing anlaysis for animal nutrition](https://github.com/YoungjunNa/machine_learning_animal_sci)
 - Utilization of agro by-products in ruminant
@@ -19,7 +19,7 @@ Email: ruminoreticulum@gmail.com; Github: https://github.com/YoungjunNa; Technic
   
 **Research Assistant**, Konkuk University, 2011 - 2016  
 
-## TEACHING EXPERIENCE  
+## TEACHING   
 ### **Adjunct Professor**, Seojung University, 2018 - present    
 - [Animal breeding](https://github.com/YoungjunNa/2018_breeding_science), Seojung University, Spring 2018
 - [Animal nutrition and feeding](https://github.com/YoungjunNa/2018_animal_nutrition_and_feeding), Seojung University, Spring 2018
@@ -32,12 +32,12 @@ Email: ruminoreticulum@gmail.com; Github: https://github.com/YoungjunNa; Technic
 - Feed formulation, Konkuk University, Dec 2016  
 - Nutritional aspect of agro by-product, Konkuk University, Oct 2016  
 
-## PROGRAMMING EXPERIENCE  
+## PROGRAMMING   
 ### Member, Kor R Dev team, 2017 - present
 - [Package development of Related search word analysis](https://github.com/lovetoken/rdevteam), 2017 - 2018
 
 ## SKILLS AND INTERESTS
-- **Languages**: R 
+- **Languages**: R; MySQL
 - **Skills**: Data analysis using SAS and R; machine learning; feed formulation; animal handling; GC/chemical analysis  
 - **Interests**: Rural development  
 
