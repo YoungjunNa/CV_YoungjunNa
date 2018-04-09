@@ -35,7 +35,7 @@ Email: ruminoreticulum@gmail.com; Github: https://github.com/YoungjunNa; Technic
 ## PROGRAMMING   
 ### Member, Kor R Dev team, 2017 - present
 - [Package development of Related search word analysis](https://github.com/lovetoken/rdevteam), 2017 - 2018  
-For more information, check the [github respositories](https://github.com/YoungjunNa).
+For more information, check the [github respositories](https://github.com/YoungjunNa?tab=repositories).
 
 ## SKILLS AND INTERESTS
 - **Languages**: R; MySQL
