@@ -39,9 +39,11 @@ Email: ruminoreticulum@gmail.com; Github: https://github.com/YoungjunNa; Technic
 - [Package development of Related search word analysis](https://github.com/lovetoken/rdevteam), 2017 - 2018  
 For more information, check the [github respositories](https://github.com/YoungjunNa?tab=repositories).
 
-## SKILLS AND INTERESTS
+## LANGUAGES  
 - **1st Languages: Korean; R**  
 - **2nd Languages**: English; MySQL; html; CSS  
+
+## SKILLS AND INTERESTS
 - **Skills**: Feed formulation; Animal handling; GC/chemical analysis  
 - **Interests**: Rural development  
 
