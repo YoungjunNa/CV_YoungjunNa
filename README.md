@@ -40,9 +40,9 @@ Email: ruminoreticulum@gmail.com; Github: https://github.com/YoungjunNa; Technic
 For more information, check the [github respositories](https://github.com/YoungjunNa?tab=repositories).
 
 ## SKILLS AND INTERESTS
-- **1st Languages**: R; Korean.  
-- **2nd Languages**: MySQL; html; css; English.  
-- **Skills**: Data analysis using SAS and R; machine learning; feed formulation; animal handling; GC/chemical analysis  
+- **1st Languages: Korean; R**  
+- **2nd Languages**: English; MySQL; html; CSS  
+- **Skills**: Feed formulation; Animal handling; GC/chemical analysis  
 - **Interests**: Rural development  
 
 ## PUBLICATION  
