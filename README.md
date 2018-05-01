@@ -11,11 +11,11 @@ Email: ruminoreticulum@gmail.com; Github: https://github.com/YoungjunNa; Technic
   
 ## RESEARCH   
 ### **PhD Researcher**, Konkuk University, 2017 – present  
-- [Machine learing anlaysis for animal nutrition](https://github.com/YoungjunNa/machine_learning_animal_sci)
-- Utilization of agro by-products in ruminant
-- Animal behavior/physiology study which collaborated with ICT technology  
-- Improvement of forage utilization  
+- [Machine learing anlaysis for animal nutrition](https://github.com/YoungjunNa/machine_learning_animal_sci)  
+- Improvement of agro by-products utilization in ruminants  
+- Improvement of forage utilization in ruminants  
 - Modeling study for greenhouse gas emission from ruminants  
+- Animal behavior/physiology study which collaborated with ICT technology  
   
 **Research Assistant**, Konkuk University, 2011 - 2016  
 
