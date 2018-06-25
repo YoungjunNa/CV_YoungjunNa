@@ -51,7 +51,7 @@ For more information, check the [github respositories](https://github.com/Youngj
 ## PUBLICATION  
 ### 1st author
 - **Na, Y.**, D. H. Li, Y. Choi, K. H. Kim, and S. R. Lee. 2018. 
-Effects of feeding level on nutrient digestibility and enteric methane production in growing goats (Capra hircus hircus) and Sika deer (Cervus nippon hortulorum). Asian-Australasian Journal of Animal Sciences 31(7).  
+Effects of feeding level on nutrient digestibility and enteric methane production in growing goats (Capra hircus hircus) and Sika deer (Cervus nippon hortulorum). Asian-Australasian Journal of Animal Sciences 31(8): 1238-43.  
 - **Na, Y.**, S. Hwang, Y. Choi, G. Park, and S. R. Lee. 2018. Nutrient Digestibility and Greenhouse Gas Emission in Castrated Goats 
 (Capra Hircus) Fed Various Roughage Sources. Journal of The Korean Society of Grassland and Forage Science 38(1): 39-43.  
 - **Na, Y.**, D. H. Li, and S. R. Lee. 2017. Effects of dietary forage-to-concentrate ratio on nutrient digestibility and enteric methane production in growing goats (Capra hircus hircus) and Sika deer (Cervus nippon hortulorum). Asian-Australasian Journal of Animal Sciences 30(7): 967–72.  
