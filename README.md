@@ -20,9 +20,9 @@ Email: ruminoreticulum@gmail.com; Github: https://github.com/YoungjunNa; Technic
 **Research Assistant**, Konkuk University, 2011 - 2016  
 
 ## TEACHING   
-- [Animal breeding](https://github.com/YoungjunNa/2018_breeding_science), Seojeong Colledge, Spring 2018
-- [Animal nutrition and feeding](https://github.com/YoungjunNa/2018_animal_nutrition_and_feeding), Seojeong Colledge, Spring 2018
-- Animal nutrition and feeding, Seojeong Colledge, Spring 2017  
+- [Animal breeding](https://github.com/YoungjunNa/2018_breeding_science), Seojeong College, Spring 2018
+- [Animal nutrition and feeding](https://github.com/YoungjunNa/2018_animal_nutrition_and_feeding), Seojeong College, Spring 2018
+- Animal nutrition and feeding, Seojeong College, Spring 2017  
 - [Advanced biological statics (Grad school)](https://github.com/YoungjunNa/2017_advanced_biological_statics), Konkuk University, Fall 2017  
 - Animal nutrition, Korea Open University, Fall 2017
 - Experimental design and statistics, Seoul National University, Jan 2017  
