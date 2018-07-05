@@ -36,7 +36,7 @@ Email: ruminoreticulum@gmail.com; Github: https://github.com/YoungjunNa; Technic
 - [Geographic information system (GIS) anlaysis for animal manure treatment in Korea](https://github.com/YoungjunNa/GIS-livestock-manure.git), 2018  
 - [Breeding bull analysis for Hanwoo, KPN: Here in the real world 2017](https://youngjunna.github.io/adatalab/kpn-2017-sample.html), 2018
 - [Pedigree visualization for Hanwoo](https://youngjunna.github.io/2018/04/10/kpn-network-full/), 2018  
-- [Animal nutrition journal report](https://youngjunna.github.io/2018/04/02/animal-nutrition-journal-report/) (a monthly report), 2017 - present  
+- [Animal nutrition journal report](https://youngjunna.github.io/2018/07/04/animal-nutrition-journal-report/), 2017 - present  
 
 ### Member, Kor R Dev team, 2017 - present
 - [Package development of Related search word analysis](https://github.com/lovetoken/rdevteam), 2017 - 2018  
