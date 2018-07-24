@@ -62,7 +62,7 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 - **Na, Y.**, S. Hwang, Y. Choi, G. Park, and S. R. Lee. 2018. Nutrient Digestibility and Greenhouse Gas Emission in Castrated Goats (Capra Hircus) Fed Various Roughage Sources. Journal of The Korean Society of Grassland and Forage Science 38(1): 39-43.  
 - **Na, Y.**, D. H. Li, and S. R. Lee. 2017. Effects of dietary forage-to-concentrate ratio on nutrient digestibility and enteric methane production in growing goats (Capra hircus hircus) and Sika deer (Cervus nippon hortulorum). Asian-Australasian Journal of Animal Sciences 30(7): 967–72.  
 - **Na, Y.**, J. S. Rim, J. Y. Bang, and S. R. Lee. 2016. Evaluation of the Milk Productivity and Nutrient Balance of Forage Sources for Organic Dairy Farms in Korea. Journal of The Korean Society of Grassland and Forage Science 36(2): 98–103.   
-- **Na, Y.**, I. H. Lee, S. S. Park, and S. R. Lee. Effects of Combination of Rice Straw with Alfalfa Pellet on Milk Productivity and Chewing Activity in Lactating Dairy Cows. Asian-Australasian Journal of Animal Sciences 27(7): 960–64.  
+- **Na, Y.**, I. H. Lee, S. S. Park, and S. R. Lee. 2014. Effects of Combination of Rice Straw with Alfalfa Pellet on Milk Productivity and Chewing Activity in Lactating Dairy Cows. Asian-Australasian Journal of Animal Sciences 27(7): 960–64.  
 - **Na, Y.**, K. W. Lee, K. H. Hong, J. S. Rim, M. H. Kim, K. H. Kim, and S. R. Lee. 2013. Evaluations of Nutrient Compositions and In Situ Ruminal Disappearance Rates of Roughage Sources Commonly Used in Korea. Journal of The Korean Society of Grassland and Forage Science 33(4): 269–74.  
 
 ### Co-author
