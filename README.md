@@ -31,7 +31,7 @@ Email: ruminoreticulum@gmail.com; Github: https://github.com/YoungjunNa; Technic
 
 ## PROGRAMMING   
 ### animal data lab. project, 2017 - present  
-- Developer & Maintainer, [feed (r package)](https://github.com/YoungjunNa/feed), 2018 - present  
+- [feed package](https://github.com/YoungjunNa/feed) for animal feed formulation, 2018 - present  
 - Animal science for you and your dog, 2018 - present  
 - [Geographic information system (GIS) anlaysis for animal manure treatment in Korea](https://github.com/YoungjunNa/GIS-livestock-manure.git), 2018  
 - [Breeding bull analysis for Hanwoo, KPN: Here in the real world 2017](https://youngjunna.github.io/adatalab/kpn-2017-sample.html), 2018
