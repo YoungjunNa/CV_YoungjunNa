@@ -37,10 +37,12 @@ Email: ruminoreticulum@gmail.com; Github: https://github.com/YoungjunNa; Technic
 - [Breeding bull analysis for Hanwoo, KPN: Here in the real world 2017](https://youngjunna.github.io/adatalab/kpn-2017-sample.html), 2018
 - [Pedigree visualization for Hanwoo](https://youngjunna.github.io/2018/04/10/kpn-network-full/), 2018  
 - [Animal nutrition journal report](https://youngjunna.github.io/2018/07/04/animal-nutrition-journal-report/), 2017 - present  
-
 ### Member, Kor R Dev team, 2017 - present
-- [Package development of Related search word analysis](https://github.com/lovetoken/rdevteam), 2017 - 2018  
-For more information, check the [github respositories](https://github.com/YoungjunNa?tab=repositories).
+- [rdevteam](https://github.com/lovetoken/rdevteam) (R package) for related search word analysis, 2017 - 2018  
+
+### R package development  
+- [rdevteam](https://github.com/lovetoken/rdevteam)  
+- [feed](https://github.com/YoungjunNa/feed)  
 
 ## LANGUAGES  
 - **1st Languages: Korean; R**  
