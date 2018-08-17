@@ -16,7 +16,9 @@ Email: ruminoreticulum@gmail.com; Github: https://github.com/YoungjunNa; Technic
 - Improvement of forage utilization in ruminants  
 - Modeling study for greenhouse gas emission from ruminants  
 - Animal behavior/physiology study which collaborated with ICT technology  
-  
+
+### Committee member, Korea Livestock Feeding Standard, 2018 - present    
+
 **Research Assistant**, Konkuk University, 2011 - 2016  
 
 ## TEACHING   
