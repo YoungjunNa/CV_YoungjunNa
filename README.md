@@ -13,7 +13,7 @@ Email: ruminoreticulum@gmail.com; Github: https://github.com/YoungjunNa; Technic
 ### Committee member, Korea Livestock Feeding Standard, 2018 - present 
 
 ### **PhD Researcher**, Konkuk University, 2017 – present  
-- [Machine learning anlaysis for animal nutrition](https://github.com/YoungjunNa/machine_learning_animal_sci)  
+- [Machine learning for animal nutrition](https://github.com/YoungjunNa/machine_learning_animal_sci)  
 - Improvement of agro by-products utilization in ruminants  
 - Improvement of forage utilization in ruminants  
 - Modeling study for greenhouse gas emission from ruminants  
