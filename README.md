@@ -54,7 +54,7 @@ Email: ruminoreticulum@gmail.com; Github: https://github.com/YoungjunNa; Technic
 - **Skills**: Feed formulation; Animal handling; GC/chemical analysis  
 - **Interests**: Rural development  
 
-## PUBLICATION  
+## PUBLICATION (Peer-reviewed)  
 ### 1st author
 - **Na, Y.**, D. H. Li, Y. Choi, K. H. Kim, and S. R. Lee. 2018. 
 Effects of feeding level on nutrient digestibility and enteric methane production in growing goats (*Capra hircus hircus*) and Sika deer (*Cervus nippon hortulorum*). Asian-Australasian Journal of Animal Sciences 31(8): 1238-43.  
