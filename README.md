@@ -10,7 +10,7 @@ Email: ruminoreticulum@gmail.com; Github: https://github.com/YoungjunNa; Technic
 - B.Sc., Animal Science	Mar 2006 – Aug 2011  
   
 ## RESEARCH   
-### Committee member, Korea Livestock Feeding Standard, 2018 - present 
+### Committee member of Korea Livestock Feeding Standard, RDA, 2018 - present 
 - Member of the Hanwoo subcommittee
 
 ### **PhD Researcher**, Konkuk University, 2017 – present  
