@@ -34,6 +34,7 @@ Email: ruminoreticulum@gmail.com; Github: https://github.com/YoungjunNa; Technic
 
 ## PROGRAMMING   
 ### R package development, 2017 - present  
+- [CH4goat](https://github.com/adatalab/CH4goat) for a deep learning models to calculate the methane emission from goats. 2018
 - [feed](https://github.com/adatalab/feed) for animal feed formulation, 2018 - present  
 - [hanwoo](https://github.com/adatalab/hanwoo) for scraping the information of Hanwoo & bull, 2018  
 - [rdevteam](https://github.com/lovetoken/rdevteam) for related search word analysis, 2017 - 2018  
