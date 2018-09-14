@@ -32,30 +32,6 @@ Email: ruminoreticulum@gmail.com; Github: https://github.com/YoungjunNa; Technic
 - Feed formulation, Konkuk University, Dec 2016  
 - Nutritional aspect of agro by-product, Konkuk University, Oct 2016  
 
-## PROGRAMMING   
-### R package development, 2017 - present  
-- [CH4goat](https://github.com/adatalab/CH4goat) for a deep learning models to calculate the methane emission from goats. 2018
-- [feed](https://github.com/adatalab/feed) for animal feed formulation, 2018 - present  
-- [hanwoo](https://github.com/adatalab/hanwoo) for scraping the information of Hanwoo & bull, 2018  
-- [rdevteam](https://github.com/lovetoken/rdevteam) for related search word analysis, 2017 - 2018  
-
-### animal data lab. project, 2017 - present  
-- Animal science for you and your dog, 2018 - present  
-- [Geographic information system (GIS) anlaysis for animal manure treatment in Korea](https://github.com/YoungjunNa/GIS-livestock-manure.git), 2018  
-- [Breeding bull analysis for Hanwoo, KPN: Here in the real world 2017](https://youngjunna.github.io/adatalab/kpn-2017-sample.html), 2018
-- [Pedigree visualization for Hanwoo](https://youngjunna.github.io/2018/04/10/kpn-network-full/), 2018  
-- [Animal nutrition journal report](https://youngjunna.github.io/2018/07/04/animal-nutrition-journal-report/), 2017 - present  
-### Member, Kor R Dev team, 2017 - present
-- Related search word analysis package development, 2017 - 2018  
-
-## LANGUAGES  
-- **1st Languages: Korean; R**  
-- **2nd Languages**: English; MySQL; html; CSS  
-
-## SKILLS AND INTERESTS
-- **Skills**: Feed formulation; Animal handling; GC/chemical analysis  
-- **Interests**: Rural development  
-
 ## PUBLICATION (Peer-reviewed)  
 ### 1st author
 - **Na, Y.**, D. H. Li, Y. Choi, K. H. Kim, and S. R. Lee. 2018. 
@@ -80,6 +56,22 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 - **Na, Y.** and S. R. Lee. 2017. Effects of increasing pineapple (*Ananas comosus* L.) cannery by-product inclusion level on growth performance, blood parameters, carcass characteristics, and longissimus muscle fatty acid and free amino acid composition of growing-finishing Hanwoo (*Bos Taurus coreanae*) steers. ASAS-CSAS Annual meeting.   
 - **Na, Y.**, W. Y. Jeong, O. H. Yi, S. J. Hwang and S. R. Lee. 2013. Model for estimating enteric methane emissions from black goat. ADSA-ASAS Joint Annual Meeting.  
 - **Na, Y.**, S. J. Hwang, S. S. Park, I. H. Lee, K. T. Nam and S. R. Lee. 2012. Effects of Feeding Rice Straw and Alfalfa Pellet as Roughage Sources on Milk Productivity and Chewing Behavior in Mid-Lactating Dairy Cows. Asian-Australasian Association of Animal Production Societies.  
+
+## PROGRAMMING   
+### R package development, 2017 - present  
+- [CH4goat](https://github.com/adatalab/CH4goat) for a deep learning models to calculate the methane emission from goats. 2018
+- [feed](https://github.com/adatalab/feed) for animal feed formulation, 2018 - present  
+- [hanwoo](https://github.com/adatalab/hanwoo) for scraping the information of Hanwoo & bull, 2018  
+- [rdevteam](https://github.com/lovetoken/rdevteam) for related search word analysis, 2017 - 2018  
+
+### animal data lab. project, 2017 - present  
+- Animal science for you and your dog, 2018 - present  
+- [Geographic information system (GIS) anlaysis for animal manure treatment in Korea](https://github.com/YoungjunNa/GIS-livestock-manure.git), 2018  
+- [Breeding bull analysis for Hanwoo, KPN: Here in the real world 2017](https://youngjunna.github.io/adatalab/kpn-2017-sample.html), 2018
+- [Pedigree visualization for Hanwoo](https://youngjunna.github.io/2018/04/10/kpn-network-full/), 2018  
+- [Animal nutrition journal report](https://youngjunna.github.io/2018/07/04/animal-nutrition-journal-report/), 2017 - present  
+### Member, Kor R Dev team, 2017 - present
+- Related search word analysis package development, 2017 - 2018  
 
 ## DISCOGRAPHY
 - Keyboardist, Booze-Up, [Yousil (2013)](http://www.melon.com/album/detail.htm?albumId=2094686)  
