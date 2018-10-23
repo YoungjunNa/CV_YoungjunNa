@@ -60,8 +60,8 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 ## PROGRAMMING   
 ### R package development, 2017 - present  
 - [dairyCattle](https://github.com/adatalab/dairyCattle) for modeling the nutrient requirement of dairy cattle. 2018
-- [CH4goat](https://github.com/adatalab/CH4goat) for a deep learning models to calculate the methane emission from goats. 2018
-- [feed](https://github.com/adatalab/feed) for animal feed formulation. 2018 - present  
+- [CH4goat](https://github.com/adatalab/CH4goat) for a deep learning models to predict the methane emission from goats. 2018
+- [feed](https://github.com/adatalab/feed) for animal feed information. 2018 - present  
 - [hanwoo](https://github.com/adatalab/hanwoo) for modeling the nutrient requirement of Hanwoo cattle. 2018  
 - [rdevteam](https://github.com/lovetoken/rdevteam) for related search word analysis. 2017 - 2018  
 
