@@ -58,6 +58,9 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 - **Na, Y.**, S. J. Hwang, S. S. Park, I. H. Lee, K. T. Nam and S. R. Lee. 2012. Effects of Feeding Rice Straw and Alfalfa Pellet as Roughage Sources on Milk Productivity and Chewing Behavior in Mid-Lactating Dairy Cows. Asian-Australasian Association of Animal Production Societies.  
 
 ## PROGRAMMING   
+### Applications  
+- [Dairy herd analysis app](https://youngjunna.shinyapps.io/dairy)  
+
 ### R package development, 2017 - present  
 - [dairyCattle](https://github.com/adatalab/dairyCattle) for modeling the nutrient requirement of dairy cattle. 2018
 - [CH4goat](https://github.com/adatalab/CH4goat) for a deep learning models to predict the methane emission from goats. 2018
