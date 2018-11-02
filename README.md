@@ -59,7 +59,8 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 
 ## PROGRAMMING   
 ### Applications  
-- [Dairy herd analysis App](https://youngjunna.shinyapps.io/dairy). 2018  
+- [DairyLab](https://youngjunna.shinyapps.io/dairylab). 2018  
+- [DairyLab-Pro](https://youngjunna.shinyapps.io/dairylab-pro). 2018  
 
 ### R packages  
 - [dairyCattle](https://github.com/adatalab/dairyCattle) for modeling the nutrient requirement of dairy cattle. 2018
