@@ -61,7 +61,7 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 ## PROGRAMMING   
 ### Applications  
 - [DairyLab](https://adatalab.github.io/dairylab-pro). 2018  
-- [HanwooLab](https://adatalab.github.io/hanwoolab-pro/hanwoo114). 2018  
+- [HanwooLab](https://adatalab.github.io/hanwoolab/hanwoo114). 2018  
 
 ### R packages  
 - [dairyCattle](https://github.com/adatalab/dairyCattle) for modeling the nutrient requirement of dairy cattle. 2018
