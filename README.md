@@ -1,13 +1,8 @@
-
-<img src="{{ site.baseurl }}/assets/animaldata.png" title="Profile Picture" class="profile">
-
-**animal science; ruminant nutrition; nutrition modeling; R; Shiny; machine learning; want to be a good father, son, and hubby.**
-
---------------
-
 # Youngjun Na, PhD   
 Department of Animal Science and Technology, Konkuk University  
 120 Neungdong-ro, Gwangjin-gu, Seoul 05029. Republic of Korea  
+Email: ruminoreticulum@gmail.com
+Github: https://github.com/YoungjunNa
 
 --------------
 
