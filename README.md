@@ -55,7 +55,8 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 --------------
 
 ## ABSTRACTS
-- Kim, J., **Na, Y.** and S. R. Lee. 2018. Artificial neural networks model for predicting enteric methane emission from goats. 2018 Annual Congress of KSAST.  
+- Bae, Y., S. R. Lee, E. Lee, J. Ahn, **Y. Na**, H. Kang, S. Park, D. Kolbasov, B Jeon, and H. Lee. 2019. Development of rapid molecular diagnosis method for African Swine Fever Virus using Recombinase and Polymerase Amplification. 7th International Congress and Expo on Bioscience and Biotechnology.  
+- Kim, J., **Y. Na** and S. R. Lee. 2018. Artificial neural networks model for predicting enteric methane emission from goats. 2018 Annual Congress of KSAST.  
 - **Na, Y.** and S. R. Lee. 2017. Effects of increasing pineapple (*Ananas comosus* L.) cannery by-product inclusion level on growth performance, blood parameters, carcass characteristics, and longissimus muscle fatty acid and free amino acid composition of growing-finishing Hanwoo (*Bos Taurus coreanae*) steers. ASAS-CSAS Annual meeting.   
 - **Na, Y.**, W. Y. Jeong, O. H. Yi, S. J. Hwang and S. R. Lee. 2013. Model for estimating enteric methane emissions from black goat. ADSA-ASAS Joint Annual Meeting.  
 - **Na, Y.**, S. J. Hwang, S. S. Park, I. H. Lee, K. T. Nam and S. R. Lee. 2012. Effects of Feeding Rice Straw and Alfalfa Pellet as Roughage Sources on Milk Productivity and Chewing Behavior in Mid-Lactating Dairy Cows. Asian-Australasian Association of Animal Production Societies.  
