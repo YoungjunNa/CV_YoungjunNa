@@ -75,7 +75,7 @@ Project [animal data lab.](https://adatalab.github.io/)
 - [CH4goat](https://github.com/adatalab/CH4goat) for a deep learning models to predict the methane emission from goats.
 
 ### Applications  
-- [Quantity grade simulator for Hanwoo](https://youngjunna.shinyapps.io/hanwoo-new-windex/). 2019  
+- [A new quantity grade simulator for *Hanwoo*](https://youngjunna.shinyapps.io/hanwoo-new-windex/). 2019  
 - [DairyLab](https://adatalab.github.io/dairylab-pro). 2018  
 - [HanwooLab]( https://youngjunna.shinyapps.io/hanwoolab-example/). 2018  
 
