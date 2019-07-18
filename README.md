@@ -19,7 +19,7 @@ Github: https://github.com/YoungjunNa
 - Animal science seminar 1 (Grad school). Konkuk University. Fall 2019
 - Advanced animal environment (Grad school). Konkuk University. Fall 2019
 - [Animal environmental science](https://youngjunna.github.io/animal-environmental-science/). Konkuk University. Spring 2019  
-- [Grass and forage science](https://youngjunna.github.io/presentation/2019/03/12/forage-sci-intro.html). Konkuk University. Spring 2019 :star:  
+- [Grassland and forage science](https://youngjunna.github.io/presentation/2019/03/12/forage-sci-intro.html). Konkuk University. Spring 2019 :star:  
 - [Animal nutrition and the environment (Grad school)](https://github.com/YoungjunNa/2019-animal-nutrition-and-the-environment). Konkuk University. Spring 2019 :star:  
 - Life science. Jangan University. Spring 2019  
 - [Animal breeding](https://github.com/YoungjunNa/2018_breeding_science). Seojeong College. Spring 2018
@@ -45,7 +45,7 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 - **Na, Y.**, K. W. Lee, K. H. Hong, J. S. Rim, M. H. Kim, K. H. Kim, and S. R. Lee. 2013. Evaluations of Nutrient Compositions and In Situ Ruminal Disappearance Rates of Roughage Sources Commonly Used in Korea. Journal of The Korean Society of Grassland and Forage Science 33(4): 269–74.  
 
 ### Co-author
-- Choi Y., J. Rim, H. Lee, H. Kwon, **Y. Na**, and S. R. Lee. 2019. Effect of fermented spent instant coffee grounds on milk productivity and blood profiles of lactating dairy cows. Asian-Australasian Journal of Animal Sciences. Published online February 14, 2019.  
+- Choi Y., J. Rim, H. Lee, H. Kwon, **Y. Na**, and S. R. Lee. 2019. Effect of fermented spent instant coffee grounds on milk productivity and blood profiles of lactating dairy cows. 2019. Asian-Australasian Journal of Animal Sciences 32(7): 1007-1014.  
 - Bharanidharan R., Y. Woo, C. Lee, **Y. Na**, D. Kim, and K. H. Kim. 2018. Effect of Feeding Method on Methane Production per Dry Matter Intake in Holstein Steers. Journal of The Korean Society of Grassland and Forage Science 38(4): 262-67.   
 - Choi Y., E. C. Lee, **Y. Na**, and S. R. Lee. 2018. Effects of dietary supplementation with fermented and non-fermented brown algae by-products on laying performance, egg quality and blood profile in laying hens. Asian-Australasian Journal of Animal Sciences 31(10): 1654-1659.
 - Bharanidharan R., S. Arokiyaraj, E. B. Kim, C. H. Lee, Y. W. Woo, **Y. Na**, D. Kim, and K. H. Kim. 2018. Ruminal methane emissions, metabolic, and microbial profile of Holstein steers fed forage and concentrate, separately or as a total mixed ration. PLOS ONE 13(8): e0202446.  
