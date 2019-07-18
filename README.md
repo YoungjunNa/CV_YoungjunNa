@@ -15,7 +15,7 @@ Github: https://github.com/YoungjunNa
 --------------
 
 ## LECTURES   
-- [Livestock facility and environment](https://github.com/YoungjunNa/2019-smart-livestock-facility). Konkuk University. Fall 2019 :star:  
+- [Smart livestock facility](https://github.com/YoungjunNa/2019-smart-livestock-facility). Konkuk University. Fall 2019 :star:  
 - Animal science seminar 1 (Grad school). Konkuk University. Fall 2019
 - Advanced animal environment (Grad school). Konkuk University. Fall 2019
 - [Animal environmental science](https://youngjunna.github.io/animal-environmental-science/). Konkuk University. Spring 2019  
