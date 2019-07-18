@@ -30,7 +30,7 @@ Github: https://github.com/YoungjunNa
 --------------
 
 ## COMMITTEE
-- Member of the Hanwoo subcommittee. Korea Livestock Feeding Standard, RDA. 2018 - present  
+- Member of the Hanwoo subcommittee. Korea Livestock Feeding Standard, RDA. 2018 - 2021  
 
 --------------
 
