@@ -66,8 +66,6 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 
 --------------
 ## PROGRAMMING  
-Project [animal data lab.](https://adatalab.github.io/)  
-
 ### R packages  
 - [feed](https://github.com/adatalab/feed): A tool for getting the information of animal feeds. .   
 - [hanwoo](https://github.com/adatalab/hanwoo): A system for modeling the nutrient requirement of *Hanwoo* cattle.   
