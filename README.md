@@ -69,23 +69,15 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 Project [animal data lab.](https://adatalab.github.io/)  
 
 ### R packages  
-- [feed](https://github.com/adatalab/feed) for animal feed information.   
-- [hanwoo](https://github.com/adatalab/hanwoo) for modeling the nutrient requirement of Hanwoo cattle.   
-- [dairyCattle](https://github.com/adatalab/dairyCattle) for modeling the nutrient requirement of dairy cattle.
-- [CH4goat](https://github.com/adatalab/CH4goat) for a deep learning models to predict the methane emission from goats.
+- [feed](https://github.com/adatalab/feed): A tool for getting the information of animal feeds. .   
+- [hanwoo](https://github.com/adatalab/hanwoo): A system for modeling the nutrient requirement of *Hanwoo* cattle.   
+- [dairyCattle](https://github.com/adatalab/dairyCattle): A system for visualization and modeling the nutrient requirement of dairy cattle.
+- [CH4goat](https://github.com/adatalab/CH4goat): A artificial neural network models to predict the methane emission from goats.
 
 ### Applications  
-- [A new quantity grade simulator for *Hanwoo*](https://youngjunna.shinyapps.io/hanwoo-new-windex/). 2019  
 - [DairyLab](https://adatalab.github.io/dairylab-pro). 2018  
-- [HanwooLab]( https://youngjunna.shinyapps.io/hanwoolab-example/). 2018  
-
-
-### Projects    
-- [A lecture for you and your dog](https://github.com/YoungjunNa/yourdog). 2018 - present  
-- [Geographic information system (GIS) anlaysis for animal manure treatment in Korea](https://github.com/YoungjunNa/GIS-livestock-manure.git). 2018  
-- [Breeding bull analysis for Hanwoo, KPN: Here in the real world 2017](https://youngjunna.github.io/adatalab/kpn-2017-sample.html). 2018
-- [Pedigree visualization for Hanwoo](https://youngjunna.github.io/2018/04/10/kpn-network-full/). 2018  
-- [Animal nutrition journal report](https://youngjunna.github.io/2018/07/04/animal-nutrition-journal-report/). 2017 - 2018   
+- [HanwooLab](https://youngjunna.shinyapps.io/hanwoolab-example/). 2018  
+- [A new quantity grade simulator for *Hanwoo*](https://youngjunna.shinyapps.io/hanwoo-new-windex/). 2019  
 
 --------------
 
