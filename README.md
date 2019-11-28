@@ -19,7 +19,7 @@ Github: https://github.com/YoungjunNa
 - Animal science seminar (Grad school). Konkuk University. Fall 2019
 - Advanced animal environment (Grad school). Konkuk University. Fall 2019
 - [Animal environmental science](https://youngjunna.github.io/animal-environmental-science/). Konkuk University. Spring 2019  
-- [Grassland and forage science](https://youngjunna.github.io/presentation/2019/03/12/forage-sci-intro.html). Konkuk University. Spring 2019 :star:  
+- [Grassland and forage science](https://youngjunna.github.io/presentation/2019/03/12/forage-sci-intro.html). Konkuk University. Spring 2019-20 :star:  
 - [Animal nutrition and the environment (Grad school)](https://github.com/YoungjunNa/2019-animal-nutrition-and-the-environment). Konkuk University. Spring 2019 :star:  
 - Life science. Jangan University. Spring 2019  
 - [Animal breeding](https://github.com/YoungjunNa/2018_breeding_science). Seojeong College. Spring 2018
