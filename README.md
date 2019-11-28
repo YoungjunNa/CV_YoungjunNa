@@ -15,17 +15,17 @@ Github: https://github.com/YoungjunNa
 --------------
 
 ## LECTURES   
-- [Intelligent livestock facilities](https://github.com/YoungjunNa/2019-intelligent-livestock-facilities):house:. Konkuk University. Fall 2019   
-- Animal science seminar (Grad school):books:. Konkuk University. Fall 2019
-- Advanced animal environment (Grad school):cow2:. Konkuk University. Fall 2019
-- [Animal environmental science](https://youngjunna.github.io/animal-environmental-science/):pig:. Konkuk University. Spring 2019  
-- [Grassland and forage science](https://youngjunna.github.io/presentation/2019/03/12/forage-sci-intro.html):seedling:. Konkuk University. Spring 2019-20   
-- [Animal nutrition and the environment (Grad school)](https://github.com/YoungjunNa/2019-animal-nutrition-and-the-environment):cow:. Konkuk University. Spring 2019   
-- Life science:revolving_hearts:. Jangan University. Spring 2019  
-- [Animal breeding](https://github.com/YoungjunNa/2018_breeding_science). Seojeong College. Spring 2018
-- [Animal nutrition and feeding](https://github.com/YoungjunNa/2018_animal_nutrition_and_feeding). Seojeong College. Spring 2017-2018  
-- [Advanced biological statics (Grad school)](https://github.com/YoungjunNa/2017_advanced_biological_statics). Konkuk University. Fall 2017  
-- Animal nutrition. Korea Open University. Fall 2017
+- :house:[Intelligent livestock facilities](https://github.com/YoungjunNa/2019-intelligent-livestock-facilities). Konkuk University. Fall 2019   
+- :books:Animal science seminar (Grad school). Konkuk University. Fall 2019
+- :cow2:Advanced animal environment (Grad school). Konkuk University. Fall 2019
+- :pig:[Animal environmental science](https://youngjunna.github.io/animal-environmental-science/). Konkuk University. Spring 2019  
+- :seedling:[Grassland and forage science](https://youngjunna.github.io/presentation/2019/03/12/forage-sci-intro.html). Konkuk University. Spring 2019-20   
+- :cow:[Animal nutrition and the environment (Grad school)](https://github.com/YoungjunNa/2019-animal-nutrition-and-the-environment). Konkuk University. Spring 2019   
+- :revolving_hearts:Life science. Jangan University. Spring 2019  
+- :pig2:[Animal breeding](https://github.com/YoungjunNa/2018_breeding_science). Seojeong College. Spring 2018
+- :dog:[Animal nutrition and feeding](https://github.com/YoungjunNa/2018_animal_nutrition_and_feeding). Seojeong College. Spring 2017-2018  
+- :bar_chart:[Advanced biological statics (Grad school)](https://github.com/YoungjunNa/2017_advanced_biological_statics). Konkuk University. Fall 2017  
+- :sheep:Animal nutrition. Korea Open University. Fall 2017
 
 --------------
 
