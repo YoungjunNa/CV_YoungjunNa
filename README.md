@@ -29,11 +29,6 @@ Github: https://github.com/YoungjunNa
 
 --------------
 
-## COMMITTEE
-- Member of the Hanwoo subcommittee. Korea Livestock Feeding Standard, RDA. 2018 - 2021  
-
---------------
-
 ## PUBLICATIONS (peer-reviewed)  
 ### 1st author
 - **Na, Y.**, D. H. Li, Y. Choi, K. H. Kim, and S. R. Lee. 2018.
@@ -65,6 +60,11 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 - **Na, Y.**, S. J. Hwang, S. S. Park, I. H. Lee, K. T. Nam and S. R. Lee. 2012. Effects of Feeding Rice Straw and Alfalfa Pellet as Roughage Sources on Milk Productivity and Chewing Behavior in Mid-Lactating Dairy Cows. Asian-Australasian Association of Animal Production Societies.  
 
 --------------
+## COMMITTEE
+- Member of the Hanwoo subcommittee. Korea Livestock Feeding Standard, RDA. 2018 - 2021  
+
+--------------
+
 ## ODA  
 ### KOICA
 - :vietnam:Preliminary investigator. Vietnam National University of Agriculture, Vietnam. Dec 2019  
