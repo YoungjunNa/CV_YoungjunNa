@@ -16,7 +16,7 @@ Github: https://github.com/YoungjunNa
 
 ## LECTURES   
 - :seedling:[Grassland and forage science](https://github.com/YoungjunNa/Grassland-and-forage-science/blob/master/README.md). Konkuk University. Spring 2019-20   
-- :house:[Intelligent livestock facilities](https://github.com/YoungjunNa/2019-intelligent-livestock-facilities). Konkuk University. Fall 2019   
+- :house:[Intelligent livestock facilities](https://github.com/YoungjunNa/intelligent-livestock-facilities/blob/master/README.md). Konkuk University. Fall 2019   
 - :books:Animal science seminar (Grad school). Konkuk University. Fall 2019
 - :cow2:Advanced animal environment (Grad school). Konkuk University. Fall 2019
 - :pig:[Animal environmental science](https://youngjunna.github.io/animal-environmental-science/). Konkuk University. Spring 2019  
