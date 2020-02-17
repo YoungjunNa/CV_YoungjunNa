@@ -40,6 +40,7 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 - **Na, Y.**, K. W. Lee, K. H. Hong, J. S. Rim, M. H. Kim, K. H. Kim, and S. R. Lee. 2013. Evaluations of Nutrient Compositions and In Situ Ruminal Disappearance Rates of Roughage Sources Commonly Used in Korea. Journal of The Korean Society of Grassland and Forage Science 33(4): 269–74.  
 
 ### Co-author
+- Choi Y., J. Kim, H. Lee, K. Park, H. Kwon, **Y. Na**, and S. Lee. 2020. Modeling methane potential yield and chemical composition of bedded pack barn cattle manure: Influence of cattle, season, growth stage, its retention time and particle distribution. Journal of Material Cycles and Waste Management.
 - Choi Y., J. Rim, H. Lee, H. Kwon, **Y. Na**, and S. R. Lee. 2019. Effect of fermented spent instant coffee grounds on milk productivity and blood profiles of lactating dairy cows. 2019. Asian-Australasian Journal of Animal Sciences 32(7): 1007-1014.  
 - Bharanidharan R., Y. Woo, C. Lee, **Y. Na**, D. Kim, and K. H. Kim. 2018. Effect of Feeding Method on Methane Production per Dry Matter Intake in Holstein Steers. Journal of The Korean Society of Grassland and Forage Science 38(4): 262-67.   
 - Choi Y., E. C. Lee, **Y. Na**, and S. R. Lee. 2018. Effects of dietary supplementation with fermented and non-fermented brown algae by-products on laying performance, egg quality and blood profile in laying hens. Asian-Australasian Journal of Animal Sciences 31(10): 1654-1659.
