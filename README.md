@@ -75,8 +75,8 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 - [CH4goat](https://github.com/adatalab/CH4goat): A artificial neural network models to predict the methane emission from goats.
 
 ### Applications  
-- [DairyLab](https://adatalab.github.io/dairylab-pro): A EDA and modeling tool for nutrition management of dairy cattle.   
-- [HanwooLab](https://youngjunna.shinyapps.io/hanwoolab-example/): A EDA and modeling tool for nutrition management of Hanwoo.  
+- [DairyLab](https://adatalab.github.io/dairylab-pro): EDA and modeling tool for nutrition management of dairy cattle.   
+- [HanwooLab](https://youngjunna.shinyapps.io/hanwoolab-example/): EDA and modeling tool for nutrition management of Hanwoo.  
 - [A new quantity grade simulator for *Hanwoo*](https://youngjunna.shinyapps.io/hanwoo-new-windex/).   
 
 --------------
