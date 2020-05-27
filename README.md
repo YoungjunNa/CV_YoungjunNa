@@ -45,17 +45,17 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 
 --------------
 ## LECTURES   
-- :seedling:[Grassland and forage science](https://github.com/YoungjunNa/Grassland-and-forage-science/blob/master/README.md). Konkuk University. Spring 2019-20   
-- :house:[Intelligent livestock facilities](https://github.com/YoungjunNa/intelligent-livestock-facilities/blob/master/README.md). Konkuk University. Fall 2019   
-- :books:Animal science seminar (Grad school). Konkuk University. Fall 2019
-- :cow2:Advanced animal environment (Grad school). Konkuk University. Fall 2019
-- :pig:[Animal environmental science](https://youngjunna.github.io/animal-environmental-science/). Konkuk University. Spring 2019  
-- :cow:[Animal nutrition and the environment (Grad school)](https://github.com/YoungjunNa/2019-animal-nutrition-and-the-environment). Konkuk University. Spring 2019   
-- :revolving_hearts:Life science. Jangan University. Spring 2019  
-- :pig2:[Animal breeding](https://github.com/YoungjunNa/2018_breeding_science). Seojeong College. Spring 2018
-- :dog:[Animal nutrition and feeding](https://github.com/YoungjunNa/2018_animal_nutrition_and_feeding). Seojeong College. Spring 2017-2018  
-- :bar_chart:[Advanced biological statics (Grad school)](https://github.com/YoungjunNa/2017_advanced_biological_statics). Konkuk University. Fall 2017  
-- :sheep:Animal nutrition. Korea Open University. Fall 2017
+- :seedling: [Grassland and forage science](https://github.com/YoungjunNa/Grassland-and-forage-science/blob/master/README.md). Konkuk University. Spring 2019-20   
+- :house: [Intelligent livestock facilities](https://github.com/YoungjunNa/intelligent-livestock-facilities/blob/master/README.md). Konkuk University. Fall 2019   
+- :books: Animal science seminar (Grad school). Konkuk University. Fall 2019
+- :cow2: Advanced animal environment (Grad school). Konkuk University. Fall 2019
+- :pig: [Animal environmental science](https://youngjunna.github.io/animal-environmental-science/). Konkuk University. Spring 2019  
+- :cow: [Animal nutrition and the environment (Grad school)](https://github.com/YoungjunNa/2019-animal-nutrition-and-the-environment). Konkuk University. Spring 2019   
+- :revolving_hearts: Life science. Jangan University. Spring 2019  
+- :pig2: [Animal breeding](https://github.com/YoungjunNa/2018_breeding_science). Seojeong College. Spring 2018
+- :dog: [Animal nutrition and feeding](https://github.com/YoungjunNa/2018_animal_nutrition_and_feeding). Seojeong College. Spring 2017-2018  
+- :bar_chart: [Advanced biological statics (Grad school)](https://github.com/YoungjunNa/2017_advanced_biological_statics). Konkuk University. Fall 2017  
+- :sheep: Animal nutrition. Korea Open University. Fall 2017
 
 --------------
 ## COMMITTEE
@@ -64,7 +64,7 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 --------------
 
 ## ODA  
-- :vietnam:Preliminary investigator. Vietnam National University of Agriculture, Vietnam. KOICA. Dec 2019  
+- :vietnam: Preliminary investigator. Vietnam National University of Agriculture, Vietnam. KOICA. Dec 2019  
 
 --------------
 ## PROGRAMMING  
