@@ -14,7 +14,7 @@ Email: youngjunna@konkuk.ac.kr; Github: https://github.com/youngjunna
 --------------
 ## PUBLICATIONS   
 
-- Choi Y., S. Lee, and **Y. Na**. 2020. Determination of in situ degradation parameters and feeding level of pineapple (*Ananas comosus* L.) cannery by-product to Hanwoo steers. Asian-Australasian Journal of Animal Sciences.
+- Choi Y., S. Lee, and **Y. Na**. 2020. Determination of *in situ* degradation parameters and feeding level of pineapple (*Ananas comosus* L.) cannery by-product to Hanwoo steers. Asian-Australasian Journal of Animal Sciences.
 - Choi Y., S. Lee, and **Y. Na**. 2020. Effects of a pineapple (*Ananas comosus* L.) cannery by-product on growth performance and carcass characteristics in the finishing stage of Hanwoo steer. Asian-Australasian Journal of Animal Sciences.
 - Choi Y., J. Kim, H. Lee, K. Park, H. Kwon, **Y. Na**, and S. Lee. 2020. Modeling methane potential yield and chemical composition of bedded pack barn cattle manure: Influence of cattle, season, growth stage, its retention time and particle distribution. Journal of Material Cycles and Waste Management.  
 - Kang H., S. Kang, **Y. Na**, H. Kwon, and S. Lee. 2019. Effect of feeding frequency on growth performance, nutrient digestibility, diarrhea incidence and blood profiles in weaning pigs. Indian Journal of Animal Sciences 89(8): 885-888.  
