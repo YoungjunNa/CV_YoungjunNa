@@ -1,5 +1,5 @@
 # Youngjun Na  
-Department of Animal Science and Technology, Konkuk University  
+**Research Professor**, Department of Animal Science and Technology, Konkuk University  
 120 Neungdong-ro, Gwangjin-gu, Seoul 05029. Republic of Korea  
 Email: youngjunna@konkuk.ac.kr; Github: https://github.com/youngjunna  
 
@@ -34,6 +34,7 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 --------------
 
 ## ABSTRACTS
+- **Y. Na**, Y. Choi, and S. Lee. 2020. Clustering method for nutrition management of dairy herd using a k-means algorithm. 2020 Annual Congress of KSAST.
 - Bae, Y., S. R. Lee, E. Lee, J. Ahn, **Y. Na**, H. Kang, S. Park, D. Kolbasov, B Jeon, and H. Lee. 2019. Development of rapid molecular diagnosis method for African Swine Fever Virus using Recombinase and Polymerase Amplification. 7th International Congress and Expo on Bioscience and Biotechnology.  
 - Kim, J., **Y. Na** and S. R. Lee. 2018. Artificial neural networks model for predicting enteric methane emission from goats. 2018 Annual Congress of KSAST.  
 - **Na, Y.** and S. R. Lee. 2017. Effects of increasing pineapple (*Ananas comosus* L.) cannery by-product inclusion level on growth performance, blood parameters, carcass characteristics, and longissimus muscle fatty acid and free amino acid composition of growing-finishing Hanwoo (*Bos Taurus coreanae*) steers. ASAS-CSAS Annual meeting.   
