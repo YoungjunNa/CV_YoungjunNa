@@ -14,22 +14,28 @@ Email: youngjunna@konkuk.ac.kr; Github: https://github.com/youngjunna
 --------------
 ## PUBLICATIONS   
 
+### First or corresponding author
 - Choi Y., S. Lee, and **Y. Na**. 2020. Determination of *in situ* degradation parameters and feeding level of pineapple (*Ananas comosus* L.) cannery by-product to Hanwoo steers. Asian-Australasian Journal of Animal Sciences.
 - Choi Y., S. Lee, and **Y. Na**. 2020. Effects of a pineapple (*Ananas comosus* L.) cannery by-product on growth performance and carcass characteristics in the finishing stage of Hanwoo steer. Asian-Australasian Journal of Animal Sciences.
-- Choi Y., J. Kim, H. Lee, K. Park, H. Kwon, **Y. Na**, and S. Lee. 2020. Modeling methane potential yield and chemical composition of bedded pack barn cattle manure: Influence of cattle, season, growth stage, its retention time and particle distribution. Journal of Material Cycles and Waste Management.  
-- Kang H., S. Kang, **Y. Na**, H. Kwon, and S. Lee. 2019. Effect of feeding frequency on growth performance, nutrient digestibility, diarrhea incidence and blood profiles in weaning pigs. Indian Journal of Animal Sciences 89(8): 885-888.  
-- Choi Y., J. Rim, H. Lee, H. Kwon, **Y. Na**, and S. R. Lee. 2019. Effect of fermented spent instant coffee grounds on milk productivity and blood profiles of lactating dairy cows. 2019. Asian-Australasian Journal of Animal Sciences 32(7): 1007-1014. 
 - **Na, Y.**, D. H. Li, Y. Choi, K. H. Kim, and S. R. Lee. 2018.
 Effects of feeding level on nutrient digestibility and enteric methane production in growing goats (*Capra hircus hircus*) and Sika deer (*Cervus nippon hortulorum*). Asian-Australasian Journal of Animal Sciences 31(8): 1238-43.  
-- **Na, Y.**, S. Hwang, Y. Choi, G. Park, and S. R. Lee. 2018. Nutrient Digestibility and Greenhouse Gas Emission in Castrated Goats (*Capra Hircus*) Fed Various Roughage Sources. Journal of The Korean Society of Grassland and Forage Science 38(1): 39-43.  
-- Bharanidharan R., Y. Woo, C. Lee, **Y. Na**, D. Kim, and K. H. Kim. 2018. Effect of Feeding Method on Methane Production per Dry Matter Intake in Holstein Steers. Journal of The Korean Society of Grassland and Forage Science 38(4): 262-67.   
-- Choi Y., E. C. Lee, **Y. Na**, and S. R. Lee. 2018. Effects of dietary supplementation with fermented and non-fermented brown algae by-products on laying performance, egg quality and blood profile in laying hens. Asian-Australasian Journal of Animal Sciences 31(10): 1654-1659.
-- Bharanidharan R., S. Arokiyaraj, E. B. Kim, C. H. Lee, Y. W. Woo, **Y. Na**, D. Kim, and K. H. Kim. 2018. Ruminal methane emissions, metabolic, and microbial profile of Holstein steers fed forage and concentrate, separately or as a total mixed ration. PLOS ONE 13(8): e0202446.  
-- Choi Y., J. Rim, **Y. Na**, and S. R. Lee. 2017. Effects of dietary fermented spent coffee ground on nutrient digestibility and nitrogen utilization in sheep. Asian-Australasian Journal of Animal Sciences 31(3): 363-68.
+- **Na, Y.**, S. Hwang, Y. Choi, G. Park, and S. R. Lee. 2018. Nutrient Digestibility and Greenhouse Gas Emission in Castrated Goats (*Capra Hircus*) Fed Various Roughage Sources. Journal of The Korean Society of Grassland and Forage Science 38(1): 39-43. 
 - **Na, Y.**, D. H. Li, and S. R. Lee. 2017. Effects of dietary forage-to-concentrate ratio on nutrient digestibility and enteric methane production in growing goats (*Capra hircus hircus*) and Sika deer (*Cervus nippon hortulorum*). Asian-Australasian Journal of Animal Sciences 30(7): 967–72.  
 - **Na, Y.**, J. S. Rim, J. Y. Bang, and S. R. Lee. 2016. Evaluation of the Milk Productivity and Nutrient Balance of Forage Sources for Organic Dairy Farms in Korea. Journal of The Korean Society of Grassland and Forage Science 36(2): 98–103.   
 - **Na, Y.**, I. H. Lee, S. S. Park, and S. R. Lee. 2014. Effects of Combination of Rice Straw with Alfalfa Pellet on Milk Productivity and Chewing Activity in Lactating Dairy Cows. Asian-Australasian Journal of Animal Sciences 27(7): 960–64.  
 - **Na, Y.**, K. W. Lee, K. H. Hong, J. S. Rim, M. H. Kim, K. H. Kim, and S. R. Lee. 2013. Evaluations of Nutrient Compositions and In Situ Ruminal Disappearance Rates of Roughage Sources Commonly Used in Korea. Journal of The Korean Society of Grassland and Forage Science 33(4): 269–74.  
+
+### Co-author
+- Choi Y., J. Kim, H. Lee, K. Park, H. Kwon, **Y. Na**, and S. Lee. 2020. Modeling methane potential yield and chemical composition of bedded pack barn cattle manure: Influence of cattle, season, growth stage, its retention time and particle distribution. Journal of Material Cycles and Waste Management.  
+- Kang H., S. Kang, **Y. Na**, H. Kwon, and S. Lee. 2019. Effect of feeding frequency on growth performance, nutrient digestibility, diarrhea incidence and blood profiles in weaning pigs. Indian Journal of Animal Sciences 89(8): 885-888.  
+- Choi Y., J. Rim, H. Lee, H. Kwon, **Y. Na**, and S. R. Lee. 2019. Effect of fermented spent instant coffee grounds on milk productivity and blood profiles of lactating dairy cows. 2019. Asian-Australasian Journal of Animal Sciences 32(7): 1007-1014. 
+- Bharanidharan R., Y. Woo, C. Lee, **Y. Na**, D. Kim, and K. H. Kim. 2018. Effect of Feeding Method on Methane Production per Dry Matter Intake in Holstein Steers. Journal of The Korean Society of Grassland and Forage Science 38(4): 262-67.   
+- Choi Y., E. C. Lee, **Y. Na**, and S. R. Lee. 2018. Effects of dietary supplementation with fermented and non-fermented brown algae by-products on laying performance, egg quality and blood profile in laying hens. Asian-Australasian Journal of Animal Sciences 31(10): 1654-1659.
+- Bharanidharan R., S. Arokiyaraj, E. B. Kim, C. H. Lee, Y. W. Woo, **Y. Na**, D. Kim, and K. H. Kim. 2018. Ruminal methane emissions, metabolic, and microbial profile of Holstein steers fed forage and concentrate, separately or as a total mixed ration. PLOS ONE 13(8): e0202446.  
+- Choi Y., J. Rim, **Y. Na**, and S. R. Lee. 2017. Effects of dietary fermented spent coffee ground on nutrient digestibility and nitrogen utilization in sheep. Asian-Australasian Journal of Animal Sciences 31(3): 363-68.
+
+### Textbook
+- [Animal Environmental Science](https://youngjunna.github.io/animal-environmental-science/) (e-book; *in progress*)
 
 --------------
 
