@@ -85,8 +85,8 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 ## PROGRAMMING  
 ### R packages  
 - [feed](https://github.com/adatalab/feed): A tool for getting the information of animal feeds.    
-- [hanwoo](https://github.com/adatalab/hanwoo): A system for modeling the nutrient requirement of *Hanwoo* cattle.   
-- [dairyCattle](https://github.com/adatalab/dairyCattle): A system for visualization and modeling the nutrient requirement of dairy cattle.
+- [hanwoo](https://github.com/adatalab/hanwoo): A tool for modeling the nutrient requirement of *Hanwoo* cattle.   
+- [dairyCattle](https://github.com/adatalab/dairyCattle): A tool for visualization and modeling the nutrient requirement of dairy cattle.
 - [CH4goat](https://github.com/adatalab/CH4goat): A artificial neural network models to predict the methane emission from goats.  
 - [colorhunt](https://github.com/adatalab/colorhunt): Hunt the color insight into the color palette.
 
