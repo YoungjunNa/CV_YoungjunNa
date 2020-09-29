@@ -34,6 +34,11 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 - Bharanidharan R., S. Arokiyaraj, E. B. Kim, C. H. Lee, Y. W. Woo, **Y. Na**, D. Kim, and K. H. Kim. 2018. Ruminal methane emissions, metabolic, and microbial profile of Holstein steers fed forage and concentrate, separately or as a total mixed ration. PLOS ONE 13(8): e0202446.  
 - Choi Y., J. Rim, **Y. Na**, and S. R. Lee. 2017. Effects of dietary fermented spent coffee ground on nutrient digestibility and nitrogen utilization in sheep. Asian-Australasian Journal of Animal Sciences 31(3): 363-68.
 
+### Dissertation & thesis
+- **Na, Y.** 2017. Feeding value of pineapple (*Ananas comosus* L.) cannery by-product and its effect on the productivity and carcass characteristics of Hanwoo steers.” 2017. Dissertation. Konkuk University.  
+- **Na, Y.** 2014. A study on the model estimating of enteric methane emission in black goats. 2014. Thesis. Konkuk University.
+
+
 ### Textbook
 - [Animal Environmental Science](https://youngjunna.github.io/animal-environmental-science/) (e-book; *in progress*)
 
@@ -46,11 +51,6 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 - **Na, Y.** and S. R. Lee. 2017. Effects of increasing pineapple (*Ananas comosus* L.) cannery by-product inclusion level on growth performance, blood parameters, carcass characteristics, and longissimus muscle fatty acid and free amino acid composition of growing-finishing Hanwoo (*Bos Taurus coreanae*) steers. ASAS-CSAS Annual meeting.   
 - **Na, Y.**, W. Y. Jeong, O. H. Yi, S. J. Hwang and S. R. Lee. 2013. Model for estimating enteric methane emissions from black goat. ADSA-ASAS Joint Annual Meeting.  
 - **Na, Y.**, S. J. Hwang, S. S. Park, I. H. Lee, K. T. Nam and S. R. Lee. 2012. Effects of Feeding Rice Straw and Alfalfa Pellet as Roughage Sources on Milk Productivity and Chewing Behavior in Mid-Lactating Dairy Cows. Asian-Australasian Association of Animal Production Societies.  
-
---------------
-## DISSERTATION & THESIS  
-- **Na, Y.** 2017. Feeding value of pineapple (*Ananas comosus* L.) cannery by-product and its effect on the productivity and carcass characteristics of Hanwoo steers.” 2017. Dissertation. Konkuk University.  
-- **Na, Y.** 2014. A study on the model estimating of enteric methane emission in black goats. 2014. Thesis. Konkuk University.
 
 --------------
 ## LECTURES   
