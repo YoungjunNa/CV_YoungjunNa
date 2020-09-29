@@ -68,7 +68,8 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 
 --------------
 ## COMMITTEE
-- Member of the Hanwoo subcommittee. Korea Livestock Feeding Standard, RDA. 2018 - 2021  
+- Member of the Hanwoo subcommittee. Korea Livestock Feeding Standard, Rural Development Administarion. 2018 - 2021  
+- Advisory committee member. Data Construction Project for AI Learning, National Information Society Agency. 2020
 
 --------------
 
