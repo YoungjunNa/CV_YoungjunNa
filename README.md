@@ -79,7 +79,8 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 --------------
 
 ## AWARDS
-- [Minister of Agriculture Food and Rural Affairs Award](https://kenews.co.kr/mobile/article.html?no=14287). Aug 2020
+- 🇰🇷 [President's Award](https://n.news.naver.com/article/082/0001042975). Nov 2020
+- 🇰🇷 [Minister of Agriculture Food and Rural Affairs Award](https://kenews.co.kr/mobile/article.html?no=14287). Aug 2020
 
 --------------
 ## PROGRAMMING  
