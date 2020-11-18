@@ -15,8 +15,8 @@ Email: youngjunna@konkuk.ac.kr; Github: https://github.com/youngjunna
 ## PUBLICATIONS   
 
 ### First or corresponding author
-- Choi Y., S. Lee, and **Y. Na**. 2020. Determination of *in situ* degradation parameters and feeding level of pineapple (*Ananas comosus* L.) cannery by-product to Hanwoo steers. Asian-Australasian Journal of Animal Sciences.
-- Choi Y., S. Lee, and **Y. Na**. 2020. Effects of a pineapple (*Ananas comosus* L.) cannery by-product on growth performance and carcass characteristics in the finishing stage of Hanwoo steer. Asian-Australasian Journal of Animal Sciences.
+- Choi Y., S. Lee, and **Y. Na**. 2020. Determination of *in situ* degradation parameters and feeding level of pineapple (*Ananas comosus* L.) cannery by-product to Hanwoo steers. Animal Bioscience.
+- Choi Y., S. Lee, and **Y. Na**. 2020. Effects of a pineapple (*Ananas comosus* L.) cannery by-product on growth performance and carcass characteristics in the finishing stage of Hanwoo steer. Animal Bioscience.
 - **Na, Y.**, D. H. Li, Y. Choi, K. H. Kim, and S. R. Lee. 2018.
 Effects of feeding level on nutrient digestibility and enteric methane production in growing goats (*Capra hircus hircus*) and Sika deer (*Cervus nippon hortulorum*). Asian-Australasian Journal of Animal Sciences 31(8): 1238-43.  
 - **Na, Y.**, S. Hwang, Y. Choi, G. Park, and S. R. Lee. 2018. Nutrient Digestibility and Greenhouse Gas Emission in Castrated Goats (*Capra Hircus*) Fed Various Roughage Sources. Journal of The Korean Society of Grassland and Forage Science 38(1): 39-43. 
