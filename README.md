@@ -74,7 +74,8 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 --------------
 
 ## ODA  
-- :vietnam: Preliminary investigator. Vietnam National University of Agriculture, Vietnam. KOICA. Dec 2019  
+- :vietnam: Preliminary feasibility investigator (Vietnam National University of Agriculture). KOICA Vietnam. Dec 2019  
+- :vietnam: Investigation of planning investigator (Vietnam National University of Agriculture). KOICA Vietnam. Dec 2020  
 
 --------------
 
