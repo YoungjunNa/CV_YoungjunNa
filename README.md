@@ -56,7 +56,7 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 --------------
 ## LECTURES   
 - :house: [Intelligent livestock facilities](https://github.com/YoungjunNa/intelligent-livestock-facilities/blob/master/README.md). Konkuk University. Fall 2019-20   
-- :seedling: [Grassland and forage science](https://github.com/YoungjunNa/Grassland-and-forage-science/blob/master/README.md). Konkuk University. Spring 2019-20   
+- :seedling: [Grassland and forage science](https://github.com/YoungjunNa/Grassland-and-forage-science/blob/master/README.md). Konkuk University. Spring 2019-21   
 - :books: Animal science seminar (Grad school). Konkuk University. Fall 2019
 - :cow2: Advanced animal environment (Grad school). Konkuk University. Fall 2019
 - :pig: [Animal environmental science](https://youngjunna.github.io/animal-environmental-science/). Konkuk University. Spring 2019  
@@ -75,8 +75,8 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 --------------
 
 ## ODA  
-- :vietnam: Preliminary feasibility investigator (Vietnam National University of Agriculture). KOICA Vietnam. Dec 2019  
 - :vietnam: Investigation of planning investigator (Vietnam National University of Agriculture). KOICA Vietnam. Dec 2020  
+- :vietnam: Preliminary feasibility investigator (Vietnam National University of Agriculture). KOICA Vietnam. Dec 2019  
 
 --------------
 
