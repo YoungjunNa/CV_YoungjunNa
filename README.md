@@ -1,5 +1,5 @@
 # Youngjun Na  
-**Research Professor** @Department of Animal Science and Technology, Konkuk University  
+**Research Professor** @Department of Animal Science and Technology, Konkuk University; **CEO** @antller inc.  
 120 Neungdong-ro, Gwangjin-gu, Seoul 05029. Republic of Korea  
 Email: youngjunna@konkuk.ac.kr; ORCID: https://orcid.org/0000-0002-4643-0191
   
