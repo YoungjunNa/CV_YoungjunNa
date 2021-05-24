@@ -81,6 +81,7 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 --------------
 
 ## AWARDS
+- 🇰🇷 [A New Deal of the Month Award](http://www.knewdeal.go.kr/front/monthnewdeal/monthNewdealDetail.do). Apr 2021
 - 🇰🇷 [President's Award](https://n.news.naver.com/article/082/0001042975). Nov 2020
 - 🇰🇷 [Minister of Agriculture Food and Rural Affairs Award](https://kenews.co.kr/mobile/article.html?no=14287). Aug 2020
 
