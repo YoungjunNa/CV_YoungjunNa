@@ -21,7 +21,7 @@ Email: ruminoreticulum@gmail.com; ORCID: https://orcid.org/0000-0002-4643-0191
 - B.Sc., Animal Science	Mar 2006 – Aug 2011  
 
 --------------
-## PUBLICATIONS   
+## PUBLICATION   
 
 ### First or corresponding author
 - Choi Y., S. Lee, and **Y. Na**. 2020. Determination of *in situ* degradation parameters and feeding level of pineapple (*Ananas comosus* L.) cannery by-product to Hanwoo steers. Animal Bioscience.
@@ -53,7 +53,7 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 
 --------------
 
-## ABSTRACTS
+## ABSTRACT
 - **Y. Na**, Y. Choi, and S. Lee. 2020. Clustering method for nutrition management of dairy herd using a k-means algorithm. 2020 Annual Congress of KSAST.
 - Bae, Y., S. R. Lee, E. Lee, J. Ahn, **Y. Na**, H. Kang, S. Park, D. Kolbasov, B Jeon, and H. Lee. 2019. Development of rapid molecular diagnosis method for African Swine Fever Virus using Recombinase and Polymerase Amplification. 7th International Congress and Expo on Bioscience and Biotechnology.  
 - Kim, J., **Y. Na** and S. R. Lee. 2018. Artificial neural networks model for predicting enteric methane emission from goats. 2018 Annual Congress of KSAST.  
@@ -62,7 +62,7 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 - **Na, Y.**, S. J. Hwang, S. S. Park, I. H. Lee, K. T. Nam and S. R. Lee. 2012. Effects of Feeding Rice Straw and Alfalfa Pellet as Roughage Sources on Milk Productivity and Chewing Behavior in Mid-Lactating Dairy Cows. Asian-Australasian Association of Animal Production Societies.  
 
 --------------
-## LECTURES   
+## LECTURE   
 - :house: [Intelligent livestock facilities](https://github.com/YoungjunNa/intelligent-livestock-facilities/blob/master/README.md). Konkuk University. Fall 2019-20   
 - :seedling: [Grassland and forage science](https://github.com/YoungjunNa/Grassland-and-forage-science/blob/master/README.md). Konkuk University. Spring 2019-21   
 - :books: Animal science seminar (Grad school). Konkuk University. Fall 2019
