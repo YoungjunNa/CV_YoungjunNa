@@ -1,5 +1,5 @@
 # Youngjun Na  
-**Research Professor** @Department of Animal Science and Technology, Konkuk University; **CEO** @antller inc.  
+**Research Professor** @Department of Animal Science and Technology, Konkuk University; **Founder** @Antller Inc.  
 120 Neungdong-ro, Gwangjin-gu, Seoul 05029. Republic of Korea  
 Email: ruminoreticulum@gmail.com; ORCID: https://orcid.org/0000-0002-4643-0191
   
@@ -7,9 +7,9 @@ Email: ruminoreticulum@gmail.com; ORCID: https://orcid.org/0000-0002-4643-0191
 --------------
 
 ## WORK
-- CEO. Antller Inc. 2021 - present
-- Research Professor. Konkuk University. 2020 - present
-- Postdoctoral research fellow. Konkuk University. 2017 - 2020
+- Chief Executive Officer @Antller Inc. 2021 - present
+- Research Professor @Konkuk University. 2020 - present
+- Postdoctoral Research Fellow @Konkuk University. 2017 - 2020
 
 
 --------------
