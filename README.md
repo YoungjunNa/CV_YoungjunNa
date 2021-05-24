@@ -6,6 +6,14 @@ Email: ruminoreticulum@gmail.com; ORCID: https://orcid.org/0000-0002-4643-0191
 
 --------------
 
+## WORK
+- CEO. Antller Inc. 2021 - present
+- Research Professor. Konkuk University. 2020 - present
+- Postdoctoral research fellow. Konkuk University. 2017 - 2020
+
+
+--------------
+
 ## EDUCATION
 ### **Konkuk University**, Seoul, Republic of Korea  
 - **Ph.D.**, Animal Science	Mar 2014 – Feb 2017  
@@ -80,7 +88,7 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 
 --------------
 
-## AWARDS
+## AWARD
 - 🇰🇷 [A New Deal of the Month Award](http://www.knewdeal.go.kr/front/monthnewdeal/monthNewdealDetail.do). Apr 2021
 - 🇰🇷 [President's Award](https://n.news.naver.com/article/082/0001042975). Nov 2020
 - 🇰🇷 [Minister of Agriculture Food and Rural Affairs Award](https://kenews.co.kr/mobile/article.html?no=14287). Aug 2020
