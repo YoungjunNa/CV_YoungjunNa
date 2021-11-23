@@ -63,8 +63,8 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 
 --------------
 ## LECTURE   
-- :house: [Intelligent livestock facilities](https://github.com/YoungjunNa/intelligent-livestock-facilities/blob/master/README.md). Konkuk University. Fall 2019-20   
-- :seedling: [Grassland and forage science](https://github.com/YoungjunNa/Grassland-and-forage-science/blob/master/README.md). Konkuk University. Spring 2019-21   
+- :seedling: [Grassland and forage science](https://github.com/YoungjunNa/Grassland-and-forage-science/blob/master/README.md). Konkuk University. Spring 2019-22   
+- :house: [Intelligent livestock facilities](https://github.com/YoungjunNa/intelligent-livestock-facilities/blob/master/README.md). Konkuk University. Fall 2019-21   
 - :books: Animal science seminar (Grad school). Konkuk University. Fall 2019
 - :cow2: Advanced animal environment (Grad school). Konkuk University. Fall 2019
 - :pig: [Animal environmental science](https://youngjunna.github.io/animal-environmental-science/). Konkuk University. Spring 2019  
@@ -83,12 +83,14 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 --------------
 
 ## ODA  
+- :nepal: Dairy expert dispatching (Nepal Rural Community Development Project). KOICA Nepal. Nov 2021
 - :vietnam: Investigation of planning investigator (Vietnam National University of Agriculture). KOICA Vietnam. Dec 2020  
 - :vietnam: Preliminary feasibility investigator (Vietnam National University of Agriculture). KOICA Vietnam. Dec 2019  
 
 --------------
 
 ## AWARD
+- 🇰🇷 [The Best Lecture for Remote Learning Award](). Dec 2021
 - 🇰🇷 [A New Deal of the Month Award](http://www.knewdeal.go.kr/front/monthnewdeal/monthNewdealDetail.do). Apr 2021
 - 🇰🇷 [President's Award](https://n.news.naver.com/article/082/0001042975). Nov 2020
 - 🇰🇷 [Minister of Agriculture Food and Rural Affairs Award](https://kenews.co.kr/mobile/article.html?no=14287). Aug 2020
