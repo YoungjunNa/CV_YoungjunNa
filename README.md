@@ -64,7 +64,7 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 --------------
 ## LECTURE   
 - :seedling: [Grassland and forage science](https://github.com/YoungjunNa/Grassland-and-forage-science/blob/master/README.md). Konkuk University. Spring 2019-22   
-- :robot: AI and Machine Learing Programming for Animal Science. Agriculture AI Consortium. Fall 2021
+- :robot: AI and machine learing programming for animal science. Agriculture AI Consortium. Fall 2021
 - :house: [Intelligent livestock facilities](https://github.com/YoungjunNa/intelligent-livestock-facilities/blob/master/README.md). Konkuk University. Fall 2019-21   
 - :books: Animal science seminar (Grad school). Konkuk University. Fall 2019
 - :cow2: Advanced animal environment (Grad school). Konkuk University. Fall 2019
