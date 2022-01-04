@@ -92,7 +92,7 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 --------------
 
 ## AWARD
-- 🧑‍🏫 [The Best Lecture for Remote Learning Award](). Dec 2021
+- 🧑‍🏫 [The Best Lecture for Remote Learning Award](http://news.unn.net/news/articleView.html?idxno=521319). Dec 2021
 - 🇰🇷 [A New Deal of the Month Award](http://www.knewdeal.go.kr/front/monthnewdeal/monthNewdealDetail.do). Apr 2021
 - 🚀 [President's Award for Open Data Startup Competition](https://n.news.naver.com/article/082/0001042975). Nov 2020
 - 🚀 [Minister of Agriculture Food and Rural Affairs Award for Open Data Startup Competition](https://kenews.co.kr/mobile/article.html?no=14287). Aug 2020
