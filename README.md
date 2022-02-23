@@ -24,6 +24,7 @@ Email: ruminoreticulum@gmail.com ORCID: https://orcid.org/0000-0002-4643-0191
 ## PUBLICATION   
 
 ### First or corresponding author
+- Choi Y., S. Kim, S. Lee, and **Y. Na**. 2022. Effects of starch sugar by-product on rumen in vitro digestibility, in situ disappearance rate, and milking productivity of the lactating dairy cow. PeerJ.  
 - Choi Y., S. Lee, and **Y. Na**. 2020. Determination of *in situ* degradation parameters and feeding level of pineapple (*Ananas comosus* L.) cannery by-product to Hanwoo steers. Animal Bioscience.
 - Choi Y., S. Lee, and **Y. Na**. 2020. Effects of a pineapple (*Ananas comosus* L.) cannery by-product on growth performance and carcass characteristics in the finishing stage of Hanwoo steer. Animal Bioscience.
 - **Na, Y.**, D. H. Li, Y. Choi, K. H. Kim, and S. R. Lee. 2018.
