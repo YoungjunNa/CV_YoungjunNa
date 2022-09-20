@@ -36,6 +36,7 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 - **Na, Y.**, K. W. Lee, K. H. Hong, J. S. Rim, M. H. Kim, K. H. Kim, and S. R. Lee. 2013. Evaluations of Nutrient Compositions and In Situ Ruminal Disappearance Rates of Roughage Sources Commonly Used in Korea. Journal of The Korean Society of Grassland and Forage Science 33(4): 269–74.  
 
 ### Co-author
+- Kwon H., H. Ha, H. Kang, **Y. Na**, S. Lee, and Y. Choi. Effects of foot-and-mouth disease vaccination on behavior and productivity in Korean native growing cattle. 2022. Journal of Animal Environmental Science 23(3): 109-116.
 - Choi Y., G. Park, H. Kang, J. Ahn, E. Lee, **Y. Na**, and S. Lee. 2021. Effects of feeding starch sugar by-products on in situ rumen disappearance rate, growth performance, and carcass characteristics of late finishing Hanwoo steers. Animal Bioscience.  
 - Choi Y., J. Kim, H. Lee, K. Park, H. Kwon, **Y. Na**, and S. Lee. 2020. Modeling methane potential yield and chemical composition of bedded pack barn cattle manure: Influence of cattle, season, growth stage, its retention time and particle distribution. Journal of Material Cycles and Waste Management.  
 - Kang H., S. Kang, **Y. Na**, H. Kwon, and S. Lee. 2019. Effect of feeding frequency on growth performance, nutrient digestibility, diarrhea incidence and blood profiles in weaning pigs. Indian Journal of Animal Sciences 89(8): 885-888.  
