@@ -36,6 +36,7 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 - **Na, Y.**, K. W. Lee, K. H. Hong, J. S. Rim, M. H. Kim, K. H. Kim, and S. R. Lee. 2013. Evaluations of Nutrient Compositions and In Situ Ruminal Disappearance Rates of Roughage Sources Commonly Used in Korea. Journal of The Korean Society of Grassland and Forage Science 33(4): 269–74.  
 
 ### Co-author
+- Choi Y., S. Park, S. Lee, and **Y. Na**. Monitoring of Temperature on the Compost Pile in the Mechanical Composting Facility using Electric Sensors and Modeling Compost Maturity. 2023. Annals of Animal Resources Sciences 34(1): 16-25.
 - Kwon H., H. Ha, H. Kang, **Y. Na**, S. Lee, and Y. Choi. Effects of foot-and-mouth disease vaccination on behavior and productivity in Korean native growing cattle. 2022. Journal of Animal Environmental Science 23(3): 109-116.
 - Park S., S. Lee, S. Cho, **Y. Na**, Y. Choi. Effects of probiotic mixed environmental improvement agent feeding and spreading on ammonia and hydrogen sulfide emission from Hanwoo manure. Journal of Animal Environmental Science 23(3): 117-122.
 - Choi Y., G. Park, H. Kang, J. Ahn, E. Lee, **Y. Na**, and S. Lee. 2021. Effects of feeding starch sugar by-products on in situ rumen disappearance rate, growth performance, and carcass characteristics of late finishing Hanwoo steers. Animal Bioscience.  
@@ -67,8 +68,8 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 
 --------------
 ## LECTURE   
-- :house: [Intelligent livestock facilities](https://github.com/YoungjunNa/intelligent-livestock-facilities/blob/master/README.md). Konkuk University. Fall 2019-22   
-- :seedling: [Grassland and forage science](https://github.com/YoungjunNa/Grassland-and-forage-science/blob/master/README.md). Konkuk University. Spring 2019-22   
+- :house: [Intelligent livestock facilities](https://github.com/YoungjunNa/intelligent-livestock-facilities/blob/master/README.md). Konkuk University. Fall 2019 - present
+- :seedling: [Grassland and forage science](https://github.com/YoungjunNa/Grassland-and-forage-science/blob/master/README.md). Konkuk University. Spring 2019 - present
 - :robot: AI and machine learning programming for animal science. Agriculture AI Consortium. Fall 2021
 - :books: Animal science seminar (Grad school). Konkuk University. Fall 2019
 - :cow2: Advanced animal environment (Grad school). Konkuk University. Fall 2019
