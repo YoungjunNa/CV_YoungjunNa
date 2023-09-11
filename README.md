@@ -36,6 +36,7 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 - **Na, Y.**, K. W. Lee, K. H. Hong, J. S. Rim, M. H. Kim, K. H. Kim, and S. R. Lee. 2013. Evaluations of Nutrient Compositions and In Situ Ruminal Disappearance Rates of Roughage Sources Commonly Used in Korea. Journal of The Korean Society of Grassland and Forage Science 33(4): 269–74.  
 
 ### Co-author
+- Lee T., **Y. Na**, B. Kim, S. Lee, and Y. Choi. Identification of Individual Hanwoo Cattle by Muzzle Pattern Images through Deep Learning. 2023. Animals 13(18): 2856.  
 - Choi Y., S. Park, S. Lee, and **Y. Na**. Monitoring of Temperature on the Compost Pile in the Mechanical Composting Facility using Electric Sensors and Modeling Compost Maturity. 2023. Annals of Animal Resources Sciences 34(1): 16-25.
 - Kwon H., H. Ha, H. Kang, **Y. Na**, S. Lee, and Y. Choi. Effects of foot-and-mouth disease vaccination on behavior and productivity in Korean native growing cattle. 2022. Journal of Animal Environmental Science 23(3): 109-116.
 - Park S., S. Lee, S. Cho, **Y. Na**, Y. Choi. Effects of probiotic mixed environmental improvement agent feeding and spreading on ammonia and hydrogen sulfide emission from Hanwoo manure. Journal of Animal Environmental Science 23(3): 117-122.
@@ -112,9 +113,9 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 - [colorhunt](https://github.com/adatalab/colorhunt): Hunt the color insight into the color palette.
 
 ### Applications  
-- [DairyLab](http://app.antller.com/dairylab): EDA and modeling tool for nutrition management of dairy cattle.   
-- [HanwooLab](http://app.antller.com/hlab): EDA and modeling tool for nutrition management of Hanwoo.  
-- [Cattle Market Plus](http://app.antller.com/twoplusmaker/): AI curating service for cattle market information.
+- [DairyLab](): EDA and modeling tool for nutrition management of dairy cattle.   
+- [HanwooLab](): EDA and modeling tool for nutrition management of Hanwoo.  
+- [Cattle Market Plus](): AI curating service for cattle market information.
 - [G-CoMS](https://github.com/shinykorea/corona-sickbed): Gyeonggi sickbed management system for COVID19 patients (w/ Shiny Korea & Gyeonggi-do).  
 - A new quantity grade simulator for *Hanwoo* (expired).   
 
