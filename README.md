@@ -1,6 +1,5 @@
 # Youngjun Na  
-**CEO** @Antller Inc., **Research Professor** @Department of Animal Science and Technology, Konkuk University  
-120 Neungdong-ro, Gwangjin-gu, Seoul 05029. Republic of Korea  
+**CEO** @Antller Inc., 120 Neungdong-ro, Gwangjin-gu, Seoul 05029. Republic of Korea  
 Email: ruminoreticulum@gmail.com ORCID: https://orcid.org/0000-0002-4643-0191
   
 
@@ -8,7 +7,7 @@ Email: ruminoreticulum@gmail.com ORCID: https://orcid.org/0000-0002-4643-0191
 
 ## WORK
 - Chief Executive Officer @Antller Inc. 2020 - present
-- Research Professor @Konkuk University. 2020 - present
+- Research Professor @Konkuk University. 2020 - 2024
 - Postdoctoral Research Fellow @Konkuk University. 2017 - 2019
 
 
@@ -36,6 +35,8 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 - **Na, Y.**, K. W. Lee, K. H. Hong, J. S. Rim, M. H. Kim, K. H. Kim, and S. R. Lee. 2013. Evaluations of Nutrient Compositions and In Situ Ruminal Disappearance Rates of Roughage Sources Commonly Used in Korea. Journal of The Korean Society of Grassland and Forage Science 33(4): 269–74.  
 
 ### Co-author
+- Jeong W., S. Lee, **Y. Na**, and Y. Choi. Effect of Milk Replacer Feeding Level and Concentration on Feed Utilization, Growth Performance, and Blood Parameters of Hanwoo Calves. Animals. 
+- Nam K., N. Choi, **Y. Na**, and Y. Choi. Effect of the Temperature–Humidity Index on the Productivity of Dairy Cows and the Correlation between the Temperature–Humidity Index and Rumen Temperature Using a Rumen Sensor. Animals.
 - Lee T., **Y. Na**, B. Kim, S. Lee, and Y. Choi. Identification of Individual Hanwoo Cattle by Muzzle Pattern Images through Deep Learning. 2023. Animals 13(18): 2856.  
 - Choi Y., S. Park, S. Lee, and **Y. Na**. Monitoring of Temperature on the Compost Pile in the Mechanical Composting Facility using Electric Sensors and Modeling Compost Maturity. 2023. Annals of Animal Resources Sciences 34(1): 16-25.
 - Kwon H., H. Ha, H. Kang, **Y. Na**, S. Lee, and Y. Choi. Effects of foot-and-mouth disease vaccination on behavior and productivity in Korean native growing cattle. 2022. Journal of Animal Environmental Science 23(3): 109-116.
@@ -53,39 +54,28 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 - **Na, Y.** 2017. Feeding value of pineapple (*Ananas comosus* L.) cannery by-product and its effect on the productivity and carcass characteristics of Hanwoo steers.” 2017. Dissertation. Konkuk University.  
 - **Na, Y.** 2014. A study on the model estimating of enteric methane emission in black goats. 2014. Thesis. Konkuk University.
 
-
-### Textbook
-- [Animal Environmental Science](https://youngjunna.github.io/animal-environmental-science/) (e-book; *in progress*)
-
---------------
-
-## ABSTRACT
-- **Y. Na**, Y. Choi, and S. Lee. 2020. Clustering method for nutrition management of dairy herd using a k-means algorithm. 2020 Annual Congress of KSAST.
-- Bae, Y., S. R. Lee, E. Lee, J. Ahn, **Y. Na**, H. Kang, S. Park, D. Kolbasov, B Jeon, and H. Lee. 2019. Development of rapid molecular diagnosis method for African Swine Fever Virus using Recombinase and Polymerase Amplification. 7th International Congress and Expo on Bioscience and Biotechnology.  
-- Kim, J., **Y. Na** and S. R. Lee. 2018. Artificial neural networks model for predicting enteric methane emission from goats. 2018 Annual Congress of KSAST.  
-- **Na, Y.** and S. R. Lee. 2017. Effects of increasing pineapple (*Ananas comosus* L.) cannery by-product inclusion level on growth performance, blood parameters, carcass characteristics, and longissimus muscle fatty acid and free amino acid composition of growing-finishing Hanwoo (*Bos Taurus coreanae*) steers. ASAS-CSAS Annual meeting.   
-- **Na, Y.**, W. Y. Jeong, O. H. Yi, S. J. Hwang and S. R. Lee. 2013. Model for estimating enteric methane emissions from black goat. ADSA-ASAS Joint Annual Meeting.  
-- **Na, Y.**, S. J. Hwang, S. S. Park, I. H. Lee, K. T. Nam and S. R. Lee. 2012. Effects of Feeding Rice Straw and Alfalfa Pellet as Roughage Sources on Milk Productivity and Chewing Behavior in Mid-Lactating Dairy Cows. Asian-Australasian Association of Animal Production Societies.  
-
 --------------
 ## LECTURE   
-- :house: [Intelligent livestock facilities](https://github.com/YoungjunNa/intelligent-livestock-facilities/blob/master/README.md). Konkuk University. Fall 2019 - present
-- :seedling: [Grassland and forage science](https://github.com/YoungjunNa/Grassland-and-forage-science/blob/master/README.md). Konkuk University. Spring 2019 - present
+- :house: [Intelligent livestock facilities](https://github.com/YoungjunNa/intelligent-livestock-facilities/blob/master/README.md). Konkuk University. 2019 - 2023
+- :seedling: [Grassland and forage science](https://github.com/YoungjunNa/Grassland-and-forage-science/blob/master/README.md). Konkuk University. 2019 - 2023
 - :robot: AI and machine learning programming for animal science. Agriculture AI Consortium. Fall 2021
-- :books: Animal science seminar (Grad school). Konkuk University. Fall 2019
-- :cow2: Advanced animal environment (Grad school). Konkuk University. Fall 2019
-- :pig: [Animal environmental science](https://youngjunna.github.io/animal-environmental-science/). Konkuk University. Spring 2019  
-- :cow: [Animal nutrition and the environment (Grad school)](https://github.com/YoungjunNa/2019-animal-nutrition-and-the-environment). Konkuk University. Spring 2019   
-- :revolving_hearts: Life science. Jangan University. Spring 2019  
-- :pig2: [Animal breeding](https://github.com/YoungjunNa/2018_breeding_science). Seojeong College. Spring 2018
-- :dog: [Animal nutrition and feeding](https://github.com/YoungjunNa/2018_animal_nutrition_and_feeding). Seojeong College. Spring 2017-2018  
-- :bar_chart: [Advanced biological statics (Grad school)](https://github.com/YoungjunNa/2017_advanced_biological_statics). Konkuk University. Fall 2017  
-- :sheep: Animal nutrition. Korea Open University. Fall 2017
+- :books: Animal science seminar (Grad school). Konkuk University. 2019
+- :cow2: Advanced animal environment (Grad school). Konkuk University. 2019
+- :pig: [Animal environmental science](https://youngjunna.github.io/animal-environmental-science/). Konkuk University. 2019  
+- :cow: [Animal nutrition and the environment (Grad school)](https://github.com/YoungjunNa/2019-animal-nutrition-and-the-environment). Konkuk University. 2019   
+- :revolving_hearts: Life science. Jangan University. 2019  
+- :pig2: [Animal breeding](https://github.com/YoungjunNa/2018_breeding_science). Seojeong College. 2018
+- :dog: [Animal nutrition and feeding](https://github.com/YoungjunNa/2018_animal_nutrition_and_feeding). Seojeong College. 2017-2018  
+- :bar_chart: [Advanced biological statics (Grad school)](https://github.com/YoungjunNa/2017_advanced_biological_statics). Konkuk University. 2017  
+- :sheep: Animal nutrition. Korea Open University. 2017
 
 --------------
 ## COMMITTEE
+- Agriculture and Rural Voluntary Greenhouse Gas Reduction Project Review Committee. The Korea Agriculture Technology Promotion Agency. 2024 - 2026
+- Digital Innovation Committee. NONGHYUP Agribusiness Group. 2022-2023  
+- Member of the Dairy catle subcommittee. Korea Livestock Feeding Standard, Rural Development Administarion. 2024 - present
 - Advisory committee member. Korea Hanwoo Association. 2021 - 2022
-- Member of the Hanwoo subcommittee. Korea Livestock Feeding Standard, Rural Development Administarion. 2018 - 2024  
+- Member of the Hanwoo subcommittee. Korea Livestock Feeding Standard, Rural Development Administarion. 2018 - present
 
 --------------
 
@@ -115,11 +105,6 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 ### Applications  
 - [DairyLab](): EDA and modeling tool for nutrition management of dairy cattle.   
 - [HanwooLab](): EDA and modeling tool for nutrition management of Hanwoo.  
-- [Cattle Market Plus](): AI curating service for cattle market information.
+- [Cattle Market Plus](): AI curating service for cattle market information.  
 - [G-CoMS](https://github.com/shinykorea/corona-sickbed): Gyeonggi sickbed management system for COVID19 patients (w/ Shiny Korea & Gyeonggi-do).  
 - A new quantity grade simulator for *Hanwoo* (expired).   
-
---------------
-
-## DISCOGRAPHY
-- Keyboardist, Booze-Up, [Yousil (2013)](http://www.melon.com/album/detail.htm?albumId=2094686)  
