@@ -35,8 +35,8 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 - **Na, Y.**, K. W. Lee, K. H. Hong, J. S. Rim, M. H. Kim, K. H. Kim, and S. R. Lee. 2013. Evaluations of Nutrient Compositions and In Situ Ruminal Disappearance Rates of Roughage Sources Commonly Used in Korea. Journal of The Korean Society of Grassland and Forage Science 33(4): 269–74.  
 
 ### Co-author
-- Jeong W., S. Lee, **Y. Na**, and Y. Choi. Effect of Milk Replacer Feeding Level and Concentration on Feed Utilization, Growth Performance, and Blood Parameters of Hanwoo Calves. Animals. 
-- Nam K., N. Choi, **Y. Na**, and Y. Choi. Effect of the Temperature–Humidity Index on the Productivity of Dairy Cows and the Correlation between the Temperature–Humidity Index and Rumen Temperature Using a Rumen Sensor. Animals.
+- Jeong W., S. Lee, **Y. Na**, and Y. Choi. Effect of Milk Replacer Feeding Level and Concentration on Feed Utilization, Growth Performance, and Blood Parameters of Hanwoo Calves. 2024. Animals. 
+- Nam K., N. Choi, **Y. Na**, and Y. Choi. Effect of the Temperature–Humidity Index on the Productivity of Dairy Cows and the Correlation between the Temperature–Humidity Index and Rumen Temperature Using a Rumen Sensor. 2024. Animals.
 - Lee T., **Y. Na**, B. Kim, S. Lee, and Y. Choi. Identification of Individual Hanwoo Cattle by Muzzle Pattern Images through Deep Learning. 2023. Animals 13(18): 2856.  
 - Choi Y., S. Park, S. Lee, and **Y. Na**. Monitoring of Temperature on the Compost Pile in the Mechanical Composting Facility using Electric Sensors and Modeling Compost Maturity. 2023. Annals of Animal Resources Sciences 34(1): 16-25.
 - Kwon H., H. Ha, H. Kang, **Y. Na**, S. Lee, and Y. Choi. Effects of foot-and-mouth disease vaccination on behavior and productivity in Korean native growing cattle. 2022. Journal of Animal Environmental Science 23(3): 109-116.
@@ -80,9 +80,13 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 --------------
 
 ## ODA  
-- :nepal: Dairy expert dispatching (Nepal Rural Community Development Project). KOICA Nepal. Nov 2021
-- :vietnam: Investigation of planning investigator (Vietnam National University of Agriculture). KOICA Vietnam. Dec 2020  
-- :vietnam: Preliminary feasibility investigator (Vietnam National University of Agriculture). KOICA Vietnam. Dec 2019  
+- :philippines: Animal data expert (Philippines Carabao Center project). KOICA. 2025 - present  
+- :nepal: Livestock expert (Rural Capacity Building project). KOICA. Apr 2024
+- :uzbekistan: Livestock expert (Feasibility study for new agricultural ODA projects). KOPIA. Mar 2024  
+- :cambodia: Preliminary feasibility investigator (Royal University of Agriculture). KOICA. Jan 2024  
+- :nepal: Dairy expert (Nepal Rural Community Development Project). KOICA. Nov 2021  
+- :vietnam: Investigation of planning investigator (Vietnam National University of Agriculture). KOICA. Dec 2020  
+- :vietnam: Preliminary feasibility investigator (Vietnam National University of Agriculture). KOICA. Dec 2019  
 
 --------------
 
@@ -107,4 +111,3 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 - [HanwooLab](): EDA and modeling tool for nutrition management of Hanwoo.  
 - [Cattle Market Plus](): AI curating service for cattle market information.  
 - [G-CoMS](https://github.com/shinykorea/corona-sickbed): Gyeonggi sickbed management system for COVID19 patients (w/ Shiny Korea & Gyeonggi-do).  
-- A new quantity grade simulator for *Hanwoo* (expired).   
