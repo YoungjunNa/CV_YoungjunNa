@@ -6,7 +6,7 @@ Email: ruminoreticulum@gmail.com ORCID: https://orcid.org/0000-0002-4643-0191
 --------------
 
 ## WORK
-- Chief Executive Officer @Antller Inc. 2020 - present
+- Chief Executive Officer [@Antller Inc.](https://www.antller.com/) 2020 - present
 - Research Professor @Konkuk University. 2020 - 2024
 - Postdoctoral Research Fellow @Konkuk University. 2017 - 2019
 
