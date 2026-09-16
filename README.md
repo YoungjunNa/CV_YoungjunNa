@@ -55,36 +55,22 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 - **Na, Y.** 2014. A study on the model estimating of enteric methane emission in black goats. 2014. Thesis. Konkuk University.
 
 --------------
-## LECTURE   
-- :house: [Intelligent livestock facilities](https://github.com/YoungjunNa/intelligent-livestock-facilities/blob/master/README.md). Konkuk University. 2019 - 2023
-- :seedling: [Grassland and forage science](https://github.com/YoungjunNa/Grassland-and-forage-science/blob/master/README.md). Konkuk University. 2019 - 2023
-- :robot: AI and machine learning programming for animal science. Agriculture AI Consortium. Fall 2021
-- :books: Animal science seminar (Grad school). Konkuk University. 2019
-- :cow2: Advanced animal environment (Grad school). Konkuk University. 2019
-- :pig: [Animal environmental science](https://youngjunna.github.io/animal-environmental-science/). Konkuk University. 2019  
-- :cow: [Animal nutrition and the environment (Grad school)](https://github.com/YoungjunNa/2019-animal-nutrition-and-the-environment). Konkuk University. 2019   
-- :revolving_hearts: Life science. Jangan University. 2019  
-- :pig2: [Animal breeding](https://github.com/YoungjunNa/2018_breeding_science). Seojeong College. 2018
-- :dog: [Animal nutrition and feeding](https://github.com/YoungjunNa/2018_animal_nutrition_and_feeding). Seojeong College. 2017-2018  
-- :bar_chart: [Advanced biological statics (Grad school)](https://github.com/YoungjunNa/2017_advanced_biological_statics). Konkuk University. 2017  
-- :sheep: Animal nutrition. Korea Open University. 2017
-
---------------
 ## COMMITTEE
+- Member of the Hanwoo subcommittee. Korea Livestock Feeding Standard, Rural Development Administarion. 2018 - present  
 - Agriculture and Rural Voluntary Greenhouse Gas Reduction Project Review Committee. The Korea Agriculture Technology Promotion Agency. 2024 - 2026
 - Digital Innovation Committee. NONGHYUP Agribusiness Group. 2022-2023  
 - Member of the Dairy catle subcommittee. Korea Livestock Feeding Standard, Rural Development Administarion. 2024 - present
 - Advisory committee member. Korea Hanwoo Association. 2021 - 2022
-- Member of the Hanwoo subcommittee. Korea Livestock Feeding Standard, Rural Development Administarion. 2018 - present
 
 --------------
 
 ## ODA  
 - :philippines: Animal data expert (Philippines Carabao Center project). KOICA. 2025 - present  
-- :nepal: Livestock expert (Rural Capacity Building project). KOICA. Apr 2024
+- :nepal: Livestock expert (Rural Development Project in Bardiya District). KOICA. 2026 - present  
+- :nepal: Livestock expert (Rural Capacity Building project). KOICA. Apr 2024  
 - :uzbekistan: Livestock expert (Feasibility study for new agricultural ODA projects). KOPIA. Mar 2024  
 - :cambodia: Preliminary feasibility investigator (Royal University of Agriculture). KOICA. Jan 2024  
-- :nepal: Dairy expert (Nepal Rural Community Development Project). KOICA. Nov 2021  
+- :nepal: Livestock expert (Nepal Rural Community Development Project). KOICA. Nov 2021  
 - :vietnam: Investigation of planning investigator (Vietnam National University of Agriculture). KOICA. Dec 2020  
 - :vietnam: Preliminary feasibility investigator (Vietnam National University of Agriculture). KOICA. Dec 2019  
 
@@ -105,9 +91,3 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 - [dairyCattle](https://github.com/adatalab/dairyCattle): A tool for visualization and modeling the nutrient requirement of dairy cattle.
 - [CH4goat](https://github.com/adatalab/CH4goat): A artificial neural network models to predict the methane emission from goats.  
 - [colorhunt](https://github.com/adatalab/colorhunt): Hunt the color insight into the color palette.
-
-### Applications  
-- [DairyLab](): EDA and modeling tool for nutrition management of dairy cattle.   
-- [HanwooLab](): EDA and modeling tool for nutrition management of Hanwoo.  
-- [Cattle Market Plus](): AI curating service for cattle market information.  
-- [G-CoMS](https://github.com/shinykorea/corona-sickbed): Gyeonggi sickbed management system for COVID19 patients (w/ Shiny Korea & Gyeonggi-do).  
