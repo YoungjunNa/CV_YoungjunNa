@@ -1,5 +1,6 @@
 # Youngjun Na  
-**CEO** @Antller Inc., 120 Neungdong-ro, Gwangjin-gu, Seoul 05029. Republic of Korea  
+**CEO** @Antller Inc.  
+3rd Floor, [291 Achasan-ro](https://maps.app.goo.gl/hJuDddkzDvMnyUC47), Gwangjin-gu, Seoul 05029. Republic of Korea  
 Email: ruminoreticulum@gmail.com ORCID: https://orcid.org/0000-0002-4643-0191
   
 
