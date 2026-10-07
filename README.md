@@ -35,6 +35,7 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 - **Na, Y.**, K. W. Lee, K. H. Hong, J. S. Rim, M. H. Kim, K. H. Kim, and S. R. Lee. 2013. Evaluations of Nutrient Compositions and In Situ Ruminal Disappearance Rates of Roughage Sources Commonly Used in Korea. Journal of The Korean Society of Grassland and Forage Science 33(4): 269–74.  
 
 ### Co-author
+- Lee W., Y. Mun, **Y. Na**, H. Bang, and C. Kim. Effects of Pecking Materials Provision and Edibility on Productivity Indicators in Laying Hens: A Systematic Review and Meta-Analysis. 2026. Animals.
 - Jeong W., S. Lee, **Y. Na**, and Y. Choi. Effect of Milk Replacer Feeding Level and Concentration on Feed Utilization, Growth Performance, and Blood Parameters of Hanwoo Calves. 2024. Animals. 
 - Nam K., N. Choi, **Y. Na**, and Y. Choi. Effect of the Temperature–Humidity Index on the Productivity of Dairy Cows and the Correlation between the Temperature–Humidity Index and Rumen Temperature Using a Rumen Sensor. 2024. Animals.
 - Lee T., **Y. Na**, B. Kim, S. Lee, and Y. Choi. Identification of Individual Hanwoo Cattle by Muzzle Pattern Images through Deep Learning. 2023. Animals 13(18): 2856.  
