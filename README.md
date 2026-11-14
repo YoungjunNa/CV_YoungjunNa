@@ -43,6 +43,10 @@ Email: ruminoreticulum@gmail.com ORCID: https://orcid.org/0000-0002-4643-0191
 - @article{na_evaluations_2013, title= {Evaluations of {Nutrient} {Compositions} and {In} {Situ} {Ruminal} {Disappearance} {Rates} of {Roughage} {Sources} {Commonly} {Used} in {Korea}}, volume= {33}, issn= {2287-5824}, url= {http://koreascience.or.kr/journal/view.jsp?kj=GCJHBG&py=2013&vnc=v33n4&sp=269}, doi= {10.5333/KGFS.2013.33.4.269}, language= {en}, number= {4}, urldate= {2017-01-11}, journal= {Journal of The Korean Society of Grassland and Forage Science}, author= {Na, Young Jun and Lee, Kyung Won and Hong, Kyung Hee and Lim, Jong Soo and Kim, Myeong Hwa and Kim, Kyeong Hoon and Lee, Sang Rak}, month= {dec}, year= {2013}, pages= {269--274}, file= {조사료원의 영양소 함량 및 반추위_초지조사료학회201312_나영준.pdf:C\:\\Users\\Youngjun\\Zotero\\storage\\PSDR99F5\\조사료원의 영양소 함량 및 반추위_초지조사료학회201312_나영준.pdf:application/pdf}}
 <!-- ORCID_PUBLICATIONS:END -->
 
+### Dissertation & thesis
+- **Na, Y.** 2017. Feeding value of pineapple (*Ananas comosus* L.) cannery by-product and its effect on the productivity and carcass characteristics of Hanwoo steers. Dissertation. Konkuk University.
+- **Na, Y.** 2014. A study on the model estimating of enteric methane emission in black goats. Thesis. Konkuk University.
+
 --------------
 ## COMMITTEE
 - Member of the Hanwoo subcommittee. Korea Livestock Feeding Standard, Rural Development Administarion. 2018 - present  
