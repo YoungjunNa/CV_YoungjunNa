@@ -68,14 +68,14 @@ def extract_work_summaries(payload: dict) -> list[dict]:
 
 def _replace_latex_command(text: str, command: str, wrap: str) -> str:
     """Replace ``\\command{...}`` (with nested braces) by ``wrap...wrap``."""
-    token = f"\\{command}{{"
-    while token in text:
-        start = text.index(token)
-        depth, index = 1, start + len(token)
+    pattern = re.compile(rf"\\+{command}\s*\{{")
+    while match := pattern.search(text):
+        start = match.start()
+        depth, index = 1, match.end()
         while index < len(text) and depth:
             depth += {"{": 1, "}": -1}.get(text[index], 0)
             index += 1
-        inner = text[start + len(token):index - 1]
+        inner = text[match.end():index - 1]
         text = f"{text[:start]}{wrap}{inner}{wrap}{text[index:]}"
     return text
 
@@ -105,6 +105,8 @@ def clean_text(text: str) -> str:
     text = html.unescape(text)
     text = re.sub(r"<\s*(i|em)\s*>(.*?)<\s*/\s*\1\s*>", r"*\2*", text, flags=re.IGNORECASE | re.DOTALL)
     text = re.sub(r"<[^>]*>", "", text)
+    text = re.sub(r"\\+(?:textit|textbf|textrm|emph|mathit|mathrm)\s*", "", text)
+    text = re.sub(r"\\+[A-Za-z]+(?![A-Za-z])\s*", "", text)
     text = text.replace("{", "").replace("}", "")
     text = re.sub(r"\*\s*\*", "", text)
     text = " ".join(text.split())
@@ -257,11 +259,11 @@ def work_metadata(work: dict, crossref_lookup=fetch_crossref) -> dict:
     if doi and not all(metadata[key] for key in ("authors", "volume", "pages")):
         crossref = crossref_lookup(doi)
         if not metadata["authors"]:
-            metadata["authors"] = [
-                (author.get("given", ""), author.get("family", ""))
-                for author in crossref.get("author", [])
-                if author.get("family")
-            ]
+            for author in crossref.get("author", []):
+                if author.get("family"):
+                    metadata["authors"].append((author.get("given", ""), author["family"]))
+                elif author.get("name"):
+                    metadata["authors"].append(split_name(author["name"]))
         if not metadata["journal"]:
             metadata["journal"] = clean_text(next(iter(crossref.get("container-title", [])), ""))
         metadata["volume"] = metadata["volume"] or clean_text(str(crossref.get("volume", "")))
@@ -297,8 +299,10 @@ def render_work(metadata: dict) -> str:
 
 
 def section_for(metadata: dict) -> str:
-    if metadata["type"] in CONFERENCE_TYPES:
-        return "Conference"
+    # Journal supplements (e.g. Journal of Animal Science 95(supplement4)) carry meeting abstracts.
+    supplement = any("suppl" in metadata[key].lower() for key in ("volume", "issue"))
+    if metadata["type"] in CONFERENCE_TYPES or supplement:
+        return "Conference abstract"
     authors = metadata["authors"]
     if not authors or is_self(*authors[0]) or is_self(*authors[-1]):
         return "First or corresponding author"
@@ -313,7 +317,7 @@ def sort_key(metadata: dict) -> tuple:
 
 
 def render_publications(works: list[dict]) -> str:
-    sections: dict[str, list[dict]] = {"First or corresponding author": [], "Co-author": [], "Conference": []}
+    sections: dict[str, list[dict]] = {"First or corresponding author": [], "Co-author": [], "Conference abstract": []}
     for metadata in works:
         sections[section_for(metadata)].append(metadata)
 
