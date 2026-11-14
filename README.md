@@ -22,6 +22,7 @@ Email: ruminoreticulum@gmail.com ORCID: https://orcid.org/0000-0002-4643-0191
 
 --------------
 ## PUBLICATION   
+<!-- ORCID_PUBLICATIONS:START -->
 
 ### First or corresponding author
 - Choi Y., S. Kim, S. Lee, and **Y. Na**. 2022. Effects of starch sugar by-product on rumen in vitro digestibility, in situ disappearance rate, and milking productivity of the lactating dairy cow. PeerJ.  
@@ -55,6 +56,7 @@ Effects of feeding level on nutrient digestibility and enteric methane productio
 ### Dissertation & thesis
 - **Na, Y.** 2017. Feeding value of pineapple (*Ananas comosus* L.) cannery by-product and its effect on the productivity and carcass characteristics of Hanwoo steers.” 2017. Dissertation. Konkuk University.  
 - **Na, Y.** 2014. A study on the model estimating of enteric methane emission in black goats. 2014. Thesis. Konkuk University.
+<!-- ORCID_PUBLICATIONS:END -->
 
 --------------
 ## COMMITTEE
