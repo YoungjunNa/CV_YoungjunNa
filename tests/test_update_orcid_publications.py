@@ -1,6 +1,7 @@
 import unittest
 
 from scripts.update_orcid_publications import (
+    apply_override,
     extract_work_summaries,
     render_publications,
     render_work,
@@ -91,6 +92,22 @@ class UpdateOrcidPublicationsTests(unittest.TestCase):
         self.assertLess(output.index("Corresponding."), output.index("### Co-author"))
         self.assertLess(output.index("### Co-author"), output.index("Middle."))
         self.assertLess(output.index("### Conference abstract"), output.index("Meeting."))
+
+    def test_override_supplies_authors_and_section(self):
+        work = {
+            "title": {"title": {"value": "Compost"}},
+            "publication-date": {"year": {"value": "2023"}},
+            "external-ids": {"external-id": [{"external-id-type": "doi", "external-id-value": "10.1/ABC"}]},
+        }
+        overrides = {"10.1/abc": {"authors": ["Choi, Y.", "Park, S.", "Na, Y."], "section": "Co-author"}}
+
+        output = render_publications([apply_override(work_metadata(work, no_crossref), overrides)])
+
+        self.assertIn(
+            "### Co-author\n- Choi Y., S. Park, and **Y. Na**. 2023. Compost. [DOI](https://doi.org/10.1/ABC)",
+            output,
+        )
+        self.assertNotIn("First or corresponding author", output)
 
     def test_update_readme_replaces_only_marked_content(self):
         readme = "before\n<!-- ORCID_PUBLICATIONS:START -->\nold\n<!-- ORCID_PUBLICATIONS:END -->\nafter"

@@ -20,6 +20,8 @@ END_MARKER = "<!-- ORCID_PUBLICATIONS:END -->"
 SELF_FAMILY = "na"
 SELF_GIVEN_INITIAL = "y"
 CONFERENCE_TYPES = {"conference-abstract", "conference-paper", "conference-poster", "conference-output"}
+SECTIONS = ("First or corresponding author", "Co-author", "Conference abstract")
+DEFAULT_OVERRIDES = Path(__file__).with_name("publication_overrides.json")
 
 
 def fetch_json(url: str) -> dict:
@@ -298,7 +300,34 @@ def render_work(metadata: dict) -> str:
     return f"- {' '.join(parts)}"
 
 
+def load_overrides(path: Path) -> dict[str, dict]:
+    if not path.exists():
+        return {}
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError as error:
+        raise ValueError(f"Invalid overrides file {path}: {error}") from error
+    if not isinstance(data, dict):
+        raise ValueError(f"Overrides file {path} must contain a JSON object keyed by DOI")
+    return {doi.lower(): value for doi, value in data.items() if isinstance(value, dict)}
+
+
+def apply_override(metadata: dict, overrides: dict[str, dict]) -> dict:
+    override = overrides.get(metadata["doi"].lower()) if metadata["doi"] else None
+    if not override:
+        return metadata
+    if override.get("authors"):
+        metadata["authors"] = [split_name(name) for name in override["authors"]]
+    if override.get("section"):
+        if override["section"] not in SECTIONS:
+            raise ValueError(f"Unknown section {override['section']!r} for DOI {metadata['doi']}")
+        metadata["section"] = override["section"]
+    return metadata
+
+
 def section_for(metadata: dict) -> str:
+    if metadata.get("section"):
+        return metadata["section"]
     # Journal supplements (e.g. Journal of Animal Science 95(supplement4)) carry meeting abstracts.
     supplement = any("suppl" in metadata[key].lower() for key in ("volume", "issue"))
     if metadata["type"] in CONFERENCE_TYPES or supplement:
@@ -317,7 +346,7 @@ def sort_key(metadata: dict) -> tuple:
 
 
 def render_publications(works: list[dict]) -> str:
-    sections: dict[str, list[dict]] = {"First or corresponding author": [], "Co-author": [], "Conference abstract": []}
+    sections: dict[str, list[dict]] = {section: [] for section in SECTIONS}
     for metadata in works:
         sections[section_for(metadata)].append(metadata)
 
@@ -332,11 +361,14 @@ def render_publications(works: list[dict]) -> str:
     return "\n".join(lines) + "\n"
 
 
-def generate_publications(orcid_id: str) -> str:
+def generate_publications(orcid_id: str, overrides: dict[str, dict]) -> str:
     base_url = f"{ORCID_API}/{orcid_id}"
     works = []
     for summary in extract_work_summaries(fetch_json(f"{base_url}/works")):
-        works.append(work_metadata(fetch_json(f"{base_url}/work/{summary['put-code']}")))
+        metadata = apply_override(work_metadata(fetch_json(f"{base_url}/work/{summary['put-code']}")), overrides)
+        if not metadata["authors"]:
+            print(f"Warning: no authors found for {metadata['title']!r}; add them to {DEFAULT_OVERRIDES.name}", file=sys.stderr)
+        works.append(metadata)
     return render_publications(works)
 
 
@@ -354,13 +386,14 @@ def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--orcid", required=True, help="ORCID iD to synchronize")
     parser.add_argument("--readme", type=Path, default=Path("README.md"))
+    parser.add_argument("--overrides", type=Path, default=DEFAULT_OVERRIDES, help="JSON corrections keyed by DOI")
     args = parser.parse_args()
 
     if not re.fullmatch(r"\d{4}-\d{4}-\d{4}-\d{3}[\dX]", args.orcid):
         parser.error("--orcid must be a validly formatted ORCID iD")
 
     try:
-        publications = generate_publications(args.orcid)
+        publications = generate_publications(args.orcid, load_overrides(args.overrides))
         original = args.readme.read_text(encoding="utf-8")
         updated = update_readme(original, publications)
         if updated != original:
